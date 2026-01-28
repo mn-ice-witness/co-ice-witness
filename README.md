@@ -2,28 +2,29 @@
 
 ICE incident documentation for Colorado.
 
-## Structure
+## Quick Start
 
-```
-docs/
-├── data/
-│   └── incidents-summary.json    # Summary of all incidents
-├── incidents/
-│   └── YYYY-MM/                  # Incidents organized by month
-│       └── incident-slug/
-│           └── index.md
-└── media/                        # Images and videos
-```
+1. Clone the main repo for scripts and docs:
+   ```bash
+   git clone https://github.com/mn-ice-witness/us-ice-witness.git us-ice-witness
+   ```
 
-## Editorial Guidelines
+2. Edit `docs/state-config.json` if needed
 
-See the main [US ICE Witness](https://github.com/mn-ice-witness/us-ice-witness) repo for:
-- Editorial guidelines
-- Incident schema documentation
-- Media workflow instructions
+3. Read the editorial guidelines:
+   - `us-ice-witness/dev-docs/adding-incidents.md`
+   - `us-ice-witness/dev-docs/incident-schema.md`
+
+## Adding Incidents
+
+See `CONTEXT.md` for the full workflow.
 
 ## Deployment
 
-This repo's content is served at `us-ice-witness.org/co/`
+- Push to `dev` branch for preview: https://dev.co-ice-witness.pages.dev
+- Push to `main` branch for production: https://co-ice-witness.pages.dev
 
-Pushing to `main` triggers automatic deployment via Cloudflare Pages.
+## Need Help?
+
+- Editorial questions: See main [us-ice-witness](https://github.com/mn-ice-witness/us-ice-witness) repo
+- Technical issues: Open an issue in the main repo

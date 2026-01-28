@@ -1,0 +1,24 @@
+# Main repo clone (contains scripts, docs, common resources)
+us-ice-witness/
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Raw media (source files before processing)
+raw_media/
+
+# Local dev
+.wrangler/
