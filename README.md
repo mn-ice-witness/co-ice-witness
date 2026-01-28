@@ -1,30 +1,40 @@
-# Colorado ICE Witness
+# Colorado ICE Witness - Data Repository
 
-ICE incident documentation for Colorado.
+This repo contains **DATA ONLY** for Colorado ICE incidents.
 
-## Quick Start
+The website is served from [us-ice-witness](https://github.com/mn-ice-witness/us-ice-witness) at `us-ice-witness.org/co/`
+
+## Structure
+
+```
+docs/
+├── data/
+│   └── incidents-summary.json   # Auto-generated, don't edit
+├── incidents/
+│   └── YYYY-MM/
+│       └── incident-slug/
+│           └── index.md
+└── media/
+    └── (images, videos)
+```
+
+## Adding Incidents
 
 1. Clone the main repo for scripts and docs:
    ```bash
    git clone https://github.com/mn-ice-witness/us-ice-witness.git us-ice-witness
    ```
 
-2. Edit `docs/state-config.json` if needed
-
-3. Read the editorial guidelines:
+2. Read the editorial guidelines:
    - `us-ice-witness/dev-docs/adding-incidents.md`
    - `us-ice-witness/dev-docs/incident-schema.md`
 
-## Adding Incidents
+3. Create incident file in `docs/incidents/YYYY-MM/slug/index.md`
 
-See `CONTEXT.md` for the full workflow.
+4. Run: `python us-ice-witness/scripts/generate_summary.py`
+
+5. Commit and push
 
 ## Deployment
 
-- Push to `dev` branch for preview: https://dev.co-ice-witness.pages.dev
-- Push to `main` branch for production: https://co-ice-witness.pages.dev
-
-## Need Help?
-
-- Editorial questions: See main [us-ice-witness](https://github.com/mn-ice-witness/us-ice-witness) repo
-- Technical issues: Open an issue in the main repo
+Push to `main` to update data. The main website fetches from this repo's deployed files.
