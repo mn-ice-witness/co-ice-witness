@@ -50,13 +50,27 @@ See `NEWS-SOURCES.md` in this repo for Colorado-specific sources including:
 - Denver7, CPR News, Colorado Newsline
 - Colorado Politics, Westword
 
+## Scripts and Hooks
+
+All common code lives in the `us-ice-witness` symlink. State repos contain only data.
+
+**Generate summary:**
+```bash
+python3 us-ice-witness/scripts/generate_summary.py
+```
+
+**Install git hooks (validates on commit):**
+```bash
+bash us-ice-witness/hooks/install-hooks.sh
+```
+
 ## Adding an Incident
 
 1. Read the schema: `us-ice-witness/dev-docs/incident-schema.md`
-2. Create file: `docs/incidents/YYYY-MM/YYYY-MM-DD-slug/index.md`
+2. Create file: `docs/incidents/YYYY-MM/YYYY-MM-DD-slug.md`
 3. Get timestamp: Run `date +"%Y-%m-%dT%H:%M:%S"` (NEVER make up timestamps)
-4. Generate summary: `python scripts/generate_summary.py`
-5. Commit and push
+4. Generate summary: `python3 us-ice-witness/scripts/generate_summary.py`
+5. Commit and push (hooks auto-validate and regenerate summary)
 
 ## Key Colorado Communities
 
