@@ -9,10 +9,14 @@ affected_individual_citizenship: n/a
 injuries: none
 trustworthiness: high
 created: 2026-01-27T20:53:56
-last_updated: 2026-01-27T20:53:56
+last_updated: 2026-01-30T15:21:26
 ---
 
 # Federal Judge Rules ICE Conduct in Colorado "Unlawful"
+
+## Updates
+- **Jan 27** - ICE announced [appeal to 10th Circuit Court of Appeals](https://www.gjsentinel.com/news/western_colorado/ice-to-appeal-judges-ruling-requiring-agents-to-follow-laws-during-arrests/article_5c25e1b9-01d5-4b4a-96ab-459cf1414992.html).
+- **Jan 26** - Colorado AG Phil Weiser [launched misconduct complaint system](https://www.kunc.org/news/2026-01-26/misconduct-by-ice-can-now-be-reported-to-the-colorado-attorney-general) for reporting federal agent violations.
 
 ## Summary
 U.S. District Judge R. Brooke Jackson issued a 66-page preliminary injunction ruling that ICE has "routinely" made unlawful warrantless arrests in Colorado. The ruling restricts how immigration officers can arrest people in the state and requires documentation of flight risk assessments before any warrantless arrest. The case was certified as a class action covering all people arrested since January 20, 2025.
@@ -97,7 +101,7 @@ McLaughlin stated ICE officials are not making "indiscriminate" stops.
 ## Legal Context
 The lawsuit argued that ICE's ramped-up enforcement relies on the unlawful practice of arresting people without warrants and without the individualized probable cause determinations required by federal statute for 80 years.
 
-Similar rulings have been issued in other states, including Illinois. The Trump administration appealed the Illinois ruling but had not filed appeals in Colorado as of early December 2025.
+Similar rulings have been issued in other states, including Illinois. The Trump administration announced on January 27, 2026 that it would appeal the Colorado ruling to the 10th Circuit Court of Appeals.
 
 ## Editorial Assessment
 **HIGH** - Federal court ruling with published 66-page opinion. Extensive coverage from multiple major outlets (Colorado Sun, NPR, CPR News, Denver Post, Colorado Newsline). Official statements from ACLU and DHS. Named plaintiffs with documented circumstances.

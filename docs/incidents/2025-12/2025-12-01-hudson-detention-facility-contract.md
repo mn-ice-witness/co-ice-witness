@@ -9,10 +9,14 @@ affected_individual_citizenship: n/a
 injuries: none
 trustworthiness: high
 created: 2026-01-27T22:56:08
-last_updated: 2026-01-27T22:56:08
+last_updated: 2026-01-30T15:21:26
 ---
 
 # ICE Awards $39 Million Contract for New Colorado Detention Facility in Hudson
+
+## Updates
+- **Jan 22** - [Hundreds protest at facility site](https://www.denverpost.com/2026/01/21/hudson-correctional-facility-colorado-ice-detention/) demanding it not be used for ICE detention.
+- **Jan 2026** - ACLU obtained [306 pages of documents](https://www.aclu-co.org/press-releases/new-ice-expansion-documents-released-as-a-result-of-aclu-of-colorado-public-records-lawsuit-reveal-additional-plans-for-expanded-detent/) through FOIA lawsuit revealing expansion plans; ICE redacted 100+ pages.
 
 ## Summary
 ICE awarded GEO Group a $39 million contract to operate the former Hudson Correctional Facility (now called "Big Horn Correctional Facility") as an immigration detention center. The facility, dormant since 2014, has capacity for 1,256 beds. This is part of a plan to triple ICE detention capacity in Colorado. The town council was not approached by GEO Group or ICE before the plans were announced. Community protests were held at the site.
