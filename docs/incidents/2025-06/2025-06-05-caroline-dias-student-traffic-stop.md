@@ -23,6 +23,7 @@ Caroline Dias Goncalves, a 19-year-old University of Utah nursing student from B
 3. Denver Post (Jun 18, 2025): [Colorado immigration arrest Caroline Dias Goncalves](https://www.denverpost.com/2025/06/18/colorado-immigration-arrest-caroline-dias-goncalves-utah-ice/)
 4. 9News (Jun 2025): [Colorado AG sues deputy](https://www.9news.com/article/news/local/colorado-news/colorado-deputy-sued-utah-student-ice-detained-arrest/73-93100e41-06fd-4466-b6d8-50a4a2ee4d91)
 5. CPR News (Jun 18, 2025): [College student detained by ICE granted bond](https://www.cpr.org/2025/06/18/college-student-detained-by-ice-mesa-county-granted-bond/)
+6. CPR News (Aug 26, 2025): [Mesa County sheriffs deputy resigns](https://www.cpr.org/2025/08/26/mesa-county-sheriffs-deputy-ice-stop-resigns/)
 
 ## Affected Individual(s)
 - **Name:** Caroline Dias Goncalves
@@ -47,7 +48,7 @@ Caroline Dias Goncalves, a 19-year-old University of Utah nursing student from B
 Acknowledged the Signal group was intended for drug interdiction and that sharing immigration information violated Colorado law.
 
 ### Colorado Attorney General Phil Weiser
-Filed lawsuit against Deputy Zwinck for violating Colorado law prohibiting local law enforcement from sharing information with ICE for civil immigration enforcement.
+Filed lawsuit against Deputy Zwinck for violating Colorado law prohibiting local law enforcement from sharing information with ICE for civil immigration enforcement. The lawsuit was dismissed after Zwinck resigned.
 
 ### Legal Outcome
 Mesa County filed counter-lawsuit claiming state law was unconstitutional. Case became part of ACLU lawsuit resulting in November 2025 injunction against ICE.

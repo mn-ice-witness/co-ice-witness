@@ -1,5 +1,5 @@
 ---
-date: 2025-02-05
+date: 2025-02-04
 time: 06:00
 location: Multiple apartment complexes in Aurora and Denver
 city: Aurora

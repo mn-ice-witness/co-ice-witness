@@ -27,6 +27,7 @@ ICE awarded GEO Group a $39 million contract to operate the former Hudson Correc
 3. ACLU of Colorado (Dec 2025): [New ICE Expansion Documents Released](https://www.aclu-co.org/press-releases/new-ice-expansion-documents-released-as-a-result-of-aclu-of-colorado-public-records-lawsuit-reveal-additional-plans-for-expanded-detent/)
 4. Longmont Leader (Dec 2025): [Hundreds of People Protest Weld County ICE Detention Facility Plans in Hudson](https://www.longmontleader.com/colorado-news/hundreds-of-people-protest-weld-county-ice-detention-facility-plans-in-hudson-11781442)
 5. Denver Post (Aug 12, 2025): [ICE plans to open Colorado detention facility in Hudson](https://www.denverpost.com/2025/08/12/colorado-immigration-detention-ice-hudson/)
+6. Southern Ute Tribe (Aug 19, 2025): [Southern Ute Indian Tribe Clarifies Position on ICE Facility Reports](https://www.southernute-nsn.gov/2025/08/19/southern-ute-indian-tribe-clarifies-position-on-ice-facility-reports/)
 
 ## Facility Details
 - **Name:** Big Horn Correctional Facility (formerly Hudson Correctional Facility)
@@ -43,7 +44,7 @@ ICE awarded GEO Group a $39 million contract to operate the former Hudson Correc
 - Community protests held at site
 
 ## Context
-This is one of three confirmed new ICE detention sites in Colorado (along with facilities in Huerfano County and on the Southern Ute reservation), part of a plan to add 2,560 beds and potentially give Colorado the 6th most detention beds nationwide.
+This is one of three confirmed new ICE detention sites in Colorado (along with facilities in Huerfano County and on the Southern Ute reservation), part of a plan to add 2,560 beds and potentially give Colorado the 6th most detention beds nationwide. The Southern Ute Tribe has denied any knowledge of the facility.
 
 ## Community Response
 - Hundreds protested at the site

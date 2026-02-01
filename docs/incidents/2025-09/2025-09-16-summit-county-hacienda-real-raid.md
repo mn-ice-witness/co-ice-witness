@@ -35,7 +35,7 @@ Federal agents from ICE Homeland Security Investigations (HSI) and Enforcement a
 - Two workers (cook and waiter) detained, taken to Aurora
 - Computer equipment and employee records seized
 - Restaurant forced to close
-- **September 16** - Over 200 students try to leave school; crowd of 30+ gathers to protest
+- **September 16** - Over 200 students tried to leave school early; crowd of 30+ gathers to protest
 - **September 25, 2025** - 6 more detained near Super 8 hotel and Shell gas station while driving to construction site
 - **September 26, 2025** - 2 more detained; total reaches 10
 - **October 2025** - Restaurant reopens
@@ -43,7 +43,7 @@ Federal agents from ICE Homeland Security Investigations (HSI) and Enforcement a
 ## Community Impact
 - Summit School District attendance dropped **35%** for approximately two weeks
 - Several Frisco and Breckenridge restaurants closed for the day
-- Over 200 students attempted to leave during the operation
+- Over 200 students attempted to leave school early the day of the operation
 - Fear spread to construction worksites throughout the county
 
 ## Official Accounts

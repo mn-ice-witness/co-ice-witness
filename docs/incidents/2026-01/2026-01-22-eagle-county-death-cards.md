@@ -23,6 +23,7 @@ ICE agents detained nine individuals in Eagle County - eight during what advocat
 3. Aspen Public Radio (Jan 23, 2026): [Death cards were found in abandoned cars following rumored ICE activity near Vail](https://www.aspenpublicradio.org/immigration/2026-01-23/death-cards-were-found-in-abandoned-cars-following-rumored-ice-activity-near-vail)
 4. Vail Daily (Jan 2026): [Ripple effects of ICE enforcement linger in Eagle County](https://www.vaildaily.com/news/ripple-effects-of-ice-enforcement-linger-in-eagle-county/)
 5. Vail Daily (Jan 2026): [Rumored ICE activity strikes fear in Vail](https://www.vaildaily.com/news/rumored-ice-activity-strikes-fear-in-vail/)
+6. Colorado Sun (Jan 23 2026): [Racist ace of spades cards left behind following ICE arrests in Eagle County, Colorado nonprofit says](https://coloradosun.com/2026/01/23/ace-of-spades-card-ice-detentions/)
 
 ## Affected Individual(s)
 - **Number:** 9 detained

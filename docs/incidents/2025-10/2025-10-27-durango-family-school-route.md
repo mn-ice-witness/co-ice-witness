@@ -15,7 +15,7 @@ last_updated: 2026-01-27T22:56:08
 # Father and Two Children Detained En Route to School; ICE Admits Wrong Person; Protesters Pepper-Sprayed
 
 ## Summary
-ICE agents detained Fernando Jaramillo-Solano, a Colombian father with an active asylum case, and his two children (ages 12 and 15) at approximately 7:30 a.m. while they were driving to school. ICE's third-ranking Denver official later testified that "the father was mistaken for somebody else" but agents arrested all three anyway without warrants. A 57-year-old woman was thrown to the ground by a masked agent when she tried to retrieve her phone while filming the arrest. Hundreds of protesters formed a human chain outside the ICE field office for over 24 hours. Federal agents used pepper spray and rubber bullets on protesters. The Colorado Bureau of Investigation opened an investigation. The family was transferred to a detention center in Dilley, Texas, and eventually agreed to leave the U.S. due to trauma experienced in detention.
+ICE agents detained Fernando Jaramillo-Solano, a Colombian father with an active asylum case, and his two children (ages 12 and 15) at approximately 7:30 a.m. while they were driving to school. ICE's third-ranking Denver official later testified that "the father was mistaken for somebody else" but agents arrested all three anyway without warrants. A 57-year-old woman was thrown to the ground by a masked agent when she tried to retrieve her phone while filming a protest later in the day. Hundreds of protesters formed a human chain outside the ICE field office for over 24 hours. Federal agents used pepper spray and rubber bullets on protesters. The Colorado Bureau of Investigation opened an investigation. The family was transferred to a detention center in Dilley, Texas, and eventually agreed to leave the U.S. due to trauma experienced in detention.
 
 ## Sources
 1. Denver Post (Oct 28, 2025): [Colorado ICE protests Durango](https://www.denverpost.com/2025/10/28/colorado-ice-protests-durango/)
@@ -41,8 +41,8 @@ ICE agents detained Fernando Jaramillo-Solano, a Colombian father with an active
 
 ### Observer Assaulted
 - **Age:** 57
-- **Citizenship:** Unknown
-- **What happened:** Thrown to ground by masked agent while trying to retrieve phone during filming
+- **Citizenship:** U.S. citizen
+- **What happened:** Thrown to ground by masked agent while trying to retrieve phone during filming of protest
 
 ## Timeline
 - **7:30 AM, October 27** - Family stopped by ICE while driving to school

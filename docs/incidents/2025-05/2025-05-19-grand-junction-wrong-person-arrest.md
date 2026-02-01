@@ -15,7 +15,7 @@ last_updated: 2026-01-27T22:56:08
 # Father of Four Detained for Wrong Person, Held 90+ Days
 
 ## Summary
-Refugio Ramirez Ovando, a 43-year-old father of four U.S. citizen children who had lived in Colorado for 20 years, was pulled over by ICE agents in unmarked cars while driving to his construction job where he had worked for 18 years. An ICE agent later admitted they had been looking for someone else and arrested him by mistake. He was held at the Aurora detention facility for more than 90 days. His case became part of a landmark ACLU lawsuit that resulted in a federal judge ruling ICE's conduct in Colorado was "unlawful."
+Refugio Ramirez Ovando, a 43-year-old father of four U.S. citizen children who had lived in Colorado for 20 years, was pulled over by ICE agents in unmarked cars while driving to his Grand Junction construction job where he had worked for 18 years. An ICE agent later admitted they had been looking for someone else and arrested him by mistake. He was held at the Aurora detention facility for more than 90 days. His case became part of a landmark ACLU lawsuit that resulted in a federal judge ruling ICE's conduct in Colorado was "unlawful."
 
 ## Sources
 1. Colorado Sun (Oct 9, 2025): [ACLU sues ICE to stop indiscriminate arrests](https://coloradosun.com/2025/10/09/aclu-colorado-law-firms-sue-ice-to-stop-indiscriminate-arrests-and-detentions/)

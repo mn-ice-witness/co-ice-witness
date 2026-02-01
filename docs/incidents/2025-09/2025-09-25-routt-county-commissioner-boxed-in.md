@@ -1,5 +1,5 @@
 ---
-date: 2025-09-25
+date: 2025-09-24
 time: unknown
 location: Oak Creek post office
 city: Oak Creek
@@ -19,8 +19,8 @@ Routt County Commissioner Angelica Salinas reported that ICE officers "boxed in"
 
 ## Sources
 1. KUNC (Oct 1, 2025): [County commissioner confronted by federal agents](https://www.kunc.org/news/2025-10-01/county-commissioner-confronted-by-federal-agents-as-ice-activity-increases-in-steamboat-springs-oak-creek)
-2. Steamboat Pilot (Oct 2025): [County commissioner confronted by federal agents](https://www.steamboatpilot.com/news/county-commissioner-confronted-by-federal-agents-as-ice-activity-increases-in-steamboat-springs-oak-creek/)
-3. Steamboat Pilot (Oct 2025): [ICE calls commissioner statement a 'blatant and pathetic lie'](https://www.steamboatpilot.com/news/ice-calls-routt-county-commissioner-statement-a-blatant-and-pathetic-lie)
+2. Steamboat Pilot (Sep 24 2025): [County commissioner confronted by federal agents](https://www.steamboatpilot.com/news/county-commissioner-confronted-by-federal-agents-as-ice-activity-increases-in-steamboat-springs-oak-creek/)
+3. Steamboat Pilot (Sep 30 2025): [ICE calls commissioner statement a 'blatant and pathetic lie'](https://www.steamboatpilot.com/news/ice-calls-routt-county-commissioner-statement-a-blatant-and-pathetic-lie)
 4. Denver Post (Sep 25, 2025): [ICE enforcement Steamboat Springs Routt County commissioner](https://www.denverpost.com/2025/09/25/ice-enforcement-steamboat-springs-routt-county-commissioner/)
 
 ## Affected Individual(s)
