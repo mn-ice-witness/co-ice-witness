@@ -19,6 +19,6 @@ Before any task, read these files for context:
 
 **Add incident:** Create file at `docs/incidents/YYYY-MM/YYYY-MM-DD-slug/index.md`
 
-**Process media:** `python3 us-ice-witness/bin/process_media.py`
+**Process media:** `./us-ice-witness/bin/run process_media.py`
 
-**Generate summary:** `python3 us-ice-witness/bin/generate_summary.py`
+**Generate summary:** `./us-ice-witness/bin/run generate_summary.py`

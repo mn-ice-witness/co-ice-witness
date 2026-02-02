@@ -222,7 +222,7 @@ Tell the user: "✓ Created required directories."
 Run the summary generator:
 
 ```bash
-python3 us-ice-witness/bin/generate_summary.py
+./us-ice-witness/bin/run generate_summary.py
 ```
 
 **If it succeeds:**
@@ -245,8 +245,8 @@ python3 us-ice-witness/bin/generate_summary.py
 |------|---------|
 | Add incident | "Add this incident: [URL]" |
 | Process media | "Process the media in raw_media" |
-| Generate summary | `python3 us-ice-witness/bin/generate_summary.py` |
-| Run media pipeline | `python3 us-ice-witness/bin/process_media.py` |
+| Generate summary | `./us-ice-witness/bin/run generate_summary.py` |
+| Run media pipeline | `./us-ice-witness/bin/run process_media.py` |
 
 ## Troubleshooting
 

@@ -66,7 +66,7 @@ If you need to set up this repo, see `dev-docs/SETUP-HELPER.md` for step-by-step
 
 **Generate summary:**
 ```bash
-python3 us-ice-witness/bin/generate_summary.py
+./us-ice-witness/bin/run generate_summary.py
 ```
 
 **Remember: All detailed instructions are in `us-ice-witness/CONTEXT.md`**

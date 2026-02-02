@@ -23,5 +23,5 @@ Before doing ANY task, you MUST read these files:
 
 ## Quick Commands
 
-- Generate summary: `python3 us-ice-witness/bin/generate_summary.py`
-- Process media: `python3 us-ice-witness/bin/process_media.py`
+- Generate summary: `./us-ice-witness/bin/run generate_summary.py`
+- Process media: `./us-ice-witness/bin/run process_media.py`
