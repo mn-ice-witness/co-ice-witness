@@ -46,7 +46,11 @@ ln -s ../GIT_US_ICE_WITNESS us-ice-witness
 
 ## Colorado News Sources
 
-See `NEWS-SOURCES.md` for state-specific news sources to monitor.
+See `dev-docs/NEWS-SOURCES.md` for state-specific news sources to monitor.
+
+## Setup Help
+
+If you need to set up this repo, see `dev-docs/SETUP-HELPER.md` for step-by-step instructions.
 
 ## Quick Reference
 
