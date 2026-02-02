@@ -17,7 +17,7 @@ Before any task, read these files for context:
 
 ## Common Tasks
 
-**Add incident:** Create file at `docs/incidents/YYYY-MM/YYYY-MM-DD-slug/index.md`
+**Add incident:** Create file at `docs/incidents/YYYY-MM/DD/YYYY-MM-DD-slug.md`
 
 **Process media:** `./us-ice-witness/bin/run process_media.py`
 
