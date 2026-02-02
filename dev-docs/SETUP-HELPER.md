@@ -4,54 +4,66 @@
 
 ---
 
-## Step 1: Clone the us-ice-witness Repository
+## Step 1: Get the Shared Codebase (us-ice-witness)
 
-First, check if the us-ice-witness repo exists nearby:
+The shared codebase contains scripts, hooks, and documentation. It needs to be accessible as `us-ice-witness/` inside this state repo.
+
+First, check if it already exists:
 
 ```bash
+ls -la us-ice-witness/bin/config.py
+```
+
+**If it exists and works**, skip to Step 2.
+
+**If it doesn't exist**, ask the user which approach they prefer:
+
+> "I need to set up the shared us-ice-witness codebase. There are two options:"
+>
+> **Option A: Clone nearby + symlink (Recommended)**
+> - Good if you manage multiple state repos - they can share one copy
+> - Creates `../GIT_US_ICE_WITNESS` and symlinks to it
+>
+> **Option B: Clone directly into this repo**
+> - Simpler if you only manage one state
+> - Creates `us-ice-witness/` folder directly here
+>
+> "Which would you prefer?"
+
+### If user chooses Option A (symlink):
+
+```bash
+# Check if already cloned nearby
 ls -la ../GIT_US_ICE_WITNESS
 ```
 
-**If it doesn't exist**, clone it:
-
-Tell the user:
-> "I need to clone the shared us-ice-witness repository first."
-
+If not found, clone it:
 ```bash
 git clone https://github.com/mn-ice-witness/us-ice-witness.git ../GIT_US_ICE_WITNESS
 ```
 
-**If the clone fails**, tell the user:
-> "I couldn't clone the repository. Please check your internet connection and GitHub access, then try again."
-
----
-
-## Step 2: Create the us-ice-witness Symlink
-
-Check if the symlink exists:
-
-```bash
-ls -la us-ice-witness
-```
-
-**If it doesn't exist**, create it:
-
+Then create the symlink:
 ```bash
 ln -s ../GIT_US_ICE_WITNESS us-ice-witness
 ```
 
-**Verify it worked:**
+### If user chooses Option B (direct clone):
+
+```bash
+git clone https://github.com/mn-ice-witness/us-ice-witness.git us-ice-witness
+```
+
+### Verify it worked:
+
 ```bash
 ls us-ice-witness/bin/config.py
 ```
 
-If this fails, the symlink is broken. Remove and recreate:
-```bash
-rm -f us-ice-witness
-ln -s ../GIT_US_ICE_WITNESS us-ice-witness
-```
+If this fails, something went wrong. Check the clone/symlink and try again.
 
-Tell the user: "✓ us-ice-witness symlink is set up correctly."
+Tell the user: "✓ us-ice-witness is set up correctly."
+
+> **Note:** Git submodules may be used in the future to automate this. For now, the process is manual.
 
 ---
 
