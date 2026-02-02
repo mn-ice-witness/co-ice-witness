@@ -1,17 +1,40 @@
 # Colorado ICE Witness - Context for Claude Code
 
-State code: **CO** | Data URL: `https://co-ice-witness.pages.dev`
+## CRITICAL: READ THE MASTER CONTEXT FIRST
 
-## Read the Master Documentation First
+**STOP. Before doing ANYTHING, you MUST read:**
 
-**All instructions, schemas, scripts, and hooks are in `us-ice-witness/CONTEXT.md`**
+```
+us-ice-witness/CONTEXT.md
+```
 
-If the symlink doesn't exist:
+**That file contains ALL the instructions for:**
+- How to add incidents
+- Incident schema and required fields
+- How to process media
+- The 5 incident categories
+- Validation rules
+- Deployment process
+
+**This file only contains Colorado-specific information. The master context has everything else.**
+
+If `us-ice-witness/` doesn't exist, create the symlink first:
 ```bash
 ln -s ../GIT_US_ICE_WITNESS us-ice-witness
 ```
 
-## Colorado-Specific
+---
+
+## Colorado State Info
+
+| Field | Value |
+|-------|-------|
+| State Code | **CO** |
+| State Name | Colorado |
+| Site URL | co.ice-witness.org |
+| Data URL | co-ice-witness.pages.dev |
+
+## Colorado-Specific Context
 
 **Key Communities:**
 - Denver (sanctuary city)
@@ -21,4 +44,25 @@ ln -s ../GIT_US_ICE_WITNESS us-ice-witness
 
 **Legal Context:** In November 2025, a federal judge ruled ICE's conduct during arrests in Colorado was "unlawful" and issued a preliminary injunction restricting arrest methods.
 
-**News Sources:** See `NEWS-SOURCES.md`
+## Colorado News Sources
+
+See `NEWS-SOURCES.md` for state-specific news sources to monitor.
+
+## Quick Reference
+
+**Add an incident:**
+```
+"Add this incident: [paste news URL]"
+```
+
+**Process media:**
+```
+"I put a video in raw_media for the aurora-arrest incident. Process it."
+```
+
+**Generate summary:**
+```bash
+python3 us-ice-witness/bin/generate_summary.py
+```
+
+**Remember: All detailed instructions are in `us-ice-witness/CONTEXT.md`**

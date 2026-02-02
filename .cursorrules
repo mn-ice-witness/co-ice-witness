@@ -1,0 +1,27 @@
+# Cursor Rules for Colorado ICE Witness
+
+## CRITICAL: Read Context First
+
+Before doing ANY task, you MUST read these files:
+
+1. **First read: `us-ice-witness/CONTEXT.md`**
+   - Contains ALL instructions for incidents, media, schemas
+   - Has the 5 incident categories
+   - Has validation rules and required fields
+
+2. **Then read: `CONTEXT.md`** (this repo)
+   - Contains Colorado-specific information only
+   - Key communities, legal context
+
+## Key Facts
+
+- All incident schemas, categories, and rules are in `us-ice-witness/CONTEXT.md`
+- This state repo only contains state-specific context
+- Never add an incident without reading the master context first
+- Media scripts are in `us-ice-witness/bin/`
+- Raw media goes in `raw_media/`, processed output goes to `docs/media/`
+
+## Quick Commands
+
+- Generate summary: `python3 us-ice-witness/bin/generate_summary.py`
+- Process media: `python3 us-ice-witness/bin/process_media.py`

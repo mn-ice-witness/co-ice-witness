@@ -1,0 +1,258 @@
+# Colorado State Repo Setup Helper
+
+**For AI Agents:** When a user says "Help me setup my state repo project", follow this guide step by step. Be verbose, explain what you're doing, and ask for help if anything fails.
+
+---
+
+## Step 1: Clone the us-ice-witness Repository
+
+First, check if the us-ice-witness repo exists nearby:
+
+```bash
+ls -la ../GIT_US_ICE_WITNESS
+```
+
+**If it doesn't exist**, clone it:
+
+Tell the user:
+> "I need to clone the shared us-ice-witness repository first."
+
+```bash
+git clone https://github.com/mn-ice-witness/us-ice-witness.git ../GIT_US_ICE_WITNESS
+```
+
+**If the clone fails**, tell the user:
+> "I couldn't clone the repository. Please check your internet connection and GitHub access, then try again."
+
+---
+
+## Step 2: Create the us-ice-witness Symlink
+
+Check if the symlink exists:
+
+```bash
+ls -la us-ice-witness
+```
+
+**If it doesn't exist**, create it:
+
+```bash
+ln -s ../GIT_US_ICE_WITNESS us-ice-witness
+```
+
+**Verify it worked:**
+```bash
+ls us-ice-witness/bin/config.py
+```
+
+If this fails, the symlink is broken. Remove and recreate:
+```bash
+rm -f us-ice-witness
+ln -s ../GIT_US_ICE_WITNESS us-ice-witness
+```
+
+Tell the user: "✓ us-ice-witness symlink is set up correctly."
+
+---
+
+## Step 3: Find Python Installation
+
+Search for available Python installations:
+
+```bash
+which python3
+which python3.11
+which python3.12
+ls /opt/homebrew/bin/python3* 2>/dev/null
+ls /usr/local/bin/python3* 2>/dev/null
+```
+
+**Present options to the user:**
+
+> "I found the following Python installations:"
+> - `/opt/homebrew/bin/python3.12` (version 3.12.x) ← Recommended
+> - `/usr/bin/python3` (version 3.x.x)
+> - [list others found]
+>
+> "Which Python would you like to use? I recommend the newest version (3.11+)."
+
+**If no Python is found**, tell the user:
+> "I couldn't find Python 3. Please install it:"
+> - macOS: `brew install python@3.12`
+> - Ubuntu: `sudo apt install python3`
+>
+> "Then tell me the path to your Python executable."
+
+**Once the user chooses**, verify it works:
+```bash
+/chosen/path/python3 --version
+```
+
+Tell the user: "✓ Using Python at [path]: [version]"
+
+---
+
+## Step 4: Install Python Packages
+
+Test if required packages are installed:
+
+```bash
+/chosen/python3 -c "import yaml; print('✓ pyyaml installed')"
+/chosen/python3 -c "from PIL import Image; print('✓ pillow installed')"
+```
+
+**If any package is missing**, install them:
+
+```bash
+/chosen/python3 -m pip install pyyaml pillow
+```
+
+If pip fails, tell the user:
+> "Package installation failed. Please run manually:"
+> `/chosen/python3 -m pip install pyyaml pillow`
+
+---
+
+## Step 5: Check ffmpeg (Optional)
+
+```bash
+which ffmpeg
+which ffprobe
+```
+
+**If not found**, tell the user:
+> "ffmpeg is not installed. This is only needed if you'll add media (videos/images)."
+>
+> "To install:"
+> - macOS: `brew install ffmpeg`
+> - Ubuntu: `sudo apt install ffmpeg`
+>
+> "You can skip this for now and install later if needed."
+
+If found: "✓ ffmpeg is installed."
+
+---
+
+## Step 6: Create User Config File
+
+Check if `~/.ice-witness.config` exists:
+
+```bash
+cat ~/.ice-witness.config 2>/dev/null
+```
+
+**If it doesn't exist**, create it using the Python path from Step 3:
+
+```bash
+cat > ~/.ice-witness.config << 'EOF'
+python_exe: /chosen/path/python3
+EOF
+```
+
+Tell the user:
+> "I created ~/.ice-witness.config with your Python path."
+> "This file tells the scripts which Python to use."
+
+---
+
+## Step 7: Create Project Config File
+
+Check if `ice-witness.config` exists:
+
+```bash
+cat ice-witness.config 2>/dev/null
+```
+
+**If it doesn't exist**, create it for Colorado:
+
+```bash
+cat > ice-witness.config << 'EOF'
+state_code: CO
+state_name: Colorado
+contact_email: tips@ice-witness.org
+EOF
+```
+
+Tell the user:
+> "I created ice-witness.config for Colorado."
+
+---
+
+## Step 8: Install Git Hooks
+
+```bash
+./us-ice-witness/hooks/install-hooks.sh
+```
+
+Tell the user:
+> "I installed the git hooks. When you commit, the system will:"
+> - Validate incident data
+> - Auto-generate incidents-summary.json
+> - Catch errors before they reach the site
+
+---
+
+## Step 9: Create Required Directories
+
+```bash
+mkdir -p docs/incidents
+mkdir -p docs/media
+mkdir -p docs/data
+mkdir -p raw_media
+```
+
+Tell the user: "✓ Created required directories."
+
+---
+
+## Step 10: Test Everything
+
+Run the summary generator:
+
+```bash
+python3 us-ice-witness/bin/generate_summary.py
+```
+
+**If it succeeds:**
+> "✓ Setup complete! Everything is working."
+>
+> "You can now:"
+> - Add incidents: Tell me 'Add this incident: [news URL]'
+> - Process media: Put files in raw_media/ and tell me to process them
+> - Commit changes: The hooks will validate automatically
+>
+> "**IMPORTANT:** Now read `us-ice-witness/CONTEXT.md` for all the rules on adding incidents and media."
+
+**If it fails**, read the error and help fix it.
+
+---
+
+## Quick Reference
+
+| Task | Command |
+|------|---------|
+| Add incident | "Add this incident: [URL]" |
+| Process media | "Process the media in raw_media" |
+| Generate summary | `python3 us-ice-witness/bin/generate_summary.py` |
+| Run media pipeline | `python3 us-ice-witness/bin/process_media.py` |
+
+## Troubleshooting
+
+### "us-ice-witness/bin not found"
+Symlink is broken:
+```bash
+rm -f us-ice-witness
+ln -s ../GIT_US_ICE_WITNESS us-ice-witness
+```
+
+### "No module named yaml"
+```bash
+python3 -m pip install pyyaml pillow
+```
+
+### Pre-commit hook not running
+```bash
+./us-ice-witness/hooks/install-hooks.sh
+```
+
+For more help: https://docs.ice-witness.org/setup
