@@ -1,4 +1,6 @@
-# Colorado ICE Witness - Context for Claude Code
+# Colorado ICE Witness - Context for AI Assistants
+
+**This project is designed to work with an AI coding assistant**, preferably Claude Code using Opus 4.5.
 
 ## CRITICAL: READ THE MASTER CONTEXT FIRST
 
@@ -15,12 +17,18 @@ us-ice-witness/CONTEXT.md
 - The 5 incident categories
 - Validation rules
 - Deployment process
+- Key reference files in `dev-docs/`
 
 **This file only contains Colorado-specific information. The master context has everything else.**
 
-If `us-ice-witness/` doesn't exist, create the symlink first:
+If `us-ice-witness/` doesn't exist, get it first:
 ```bash
+# Option A: Clone nearby + symlink (recommended)
+git clone https://github.com/mn-ice-witness/us-ice-witness.git ../GIT_US_ICE_WITNESS
 ln -s ../GIT_US_ICE_WITNESS us-ice-witness
+
+# Option B: Clone directly
+git clone https://github.com/mn-ice-witness/us-ice-witness.git us-ice-witness
 ```
 
 ---
@@ -52,17 +60,15 @@ See `dev-docs/NEWS-SOURCES.md` for state-specific news sources to monitor.
 
 If you need to set up this repo, see `dev-docs/SETUP-HELPER.md` for step-by-step instructions.
 
+---
+
 ## Quick Reference
 
 **Add an incident:**
-```
-"Add this incident: [paste news URL]"
-```
+> "Add this incident: [paste news URL]"
 
 **Process media:**
-```
-"I put a video in raw_media for the aurora-arrest incident. Process it."
-```
+> "I put a video in raw_media for the aurora-arrest incident. Process it."
 
 **Generate summary:**
 ```bash
