@@ -37,7 +37,7 @@ Each incident is rated for trustworthiness based on source quality and corrobora
 - <span class="about-badge about-badge-high">HIGH</span> — 3+ sources, video/photo evidence, or detailed investigative reporting with named sources
 - <span class="about-badge about-badge-medium">MEDIUM</span> — 2 sources, official statements, or single established source
 - <span class="about-badge about-badge-low">LOW</span> — Single smaller source, needs corroboration
-- <span class="about-badge about-badge-unverified">UNVERIFIED</span> — Reported but not yet confirmed
+- <span class="about-badge about-badge-no-news-media">NO NEWS MEDIA</span> — Reported but not yet confirmed
 
 <h2 id="source-tiers">Source Tiers <a href="#source-tiers" class="header-link" title="Copy link"><svg width="16" height="16"><use href="#icon-link"/></svg></a></h2>
 
@@ -51,7 +51,7 @@ Colorado-based outlets with established credibility: Denver Post, Colorado Sun, 
 Smaller local outlets, advocacy journalism, or outlets with clear perspective but factual reporting.
 
 ### Tier 4 — Social Media/Unverified
-Raw social media posts, unverified claims. Used only to note reports exist, never as primary sourcing.
+Raw social media posts, no-news-media claims. Used only to note reports exist, never as primary sourcing.
 
 <h2 id="editorial-standards">Editorial Standards <a href="#editorial-standards" class="header-link" title="Copy link"><svg width="16" height="16"><use href="#icon-link"/></svg></a></h2>
 
