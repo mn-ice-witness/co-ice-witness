@@ -3,9 +3,9 @@ date: 2025-05-19
 time: morning
 location: En route to work
 city: Grand Junction
-type: immigrants
+type: citizens
 status: resolved
-affected_individual_citizenship: undocumented
+affected_individual_citizenship: legal-resident
 injuries: none
 trustworthiness: high
 created: 2026-01-27T22:56:08
@@ -25,7 +25,7 @@ Refugio Ramirez Ovando, a 43-year-old father of four U.S. citizen children who h
 ## Affected Individual(s)
 - **Name:** Refugio Ramirez Ovando
 - **Age:** 43
-- **Citizenship:** Undocumented (lived in U.S. for 20 years)
+- **Citizenship:** Lawful Permanent Resident (lived in U.S. for 20 years)
 - **Occupation:** Construction worker (18 years at same company)
 - **Family:** Father of four U.S. citizen children; active member of his church community
 
