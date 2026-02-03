@@ -39,3 +39,4 @@ The City of Greeley issued a statement clarifying that police will not participa
 
 ## Editorial Assessment
 **HIGH** - Covered by Greeley Tribune and 9News; hundreds of participants documented; reflects significant community fear in agricultural region with history of enforcement.
+

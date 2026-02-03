@@ -40,3 +40,4 @@ The deportation left a U.S. citizen child with cancer without her father, who ha
 
 ## Editorial Assessment
 **MEDIUM** - Single source (Colorado Sun feature article); limited specific details (name not published); illustrates humanitarian impact of rapid deportations; ties to broader pattern of agricultural worker fear.
+

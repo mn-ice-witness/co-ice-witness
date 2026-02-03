@@ -76,3 +76,4 @@ Bipartisan Colorado lawmakers (Sens. Bennet and Hickenlooper, Rep. Hurd) worked 
 
 ## Editorial Assessment
 **HIGH** - ICE officially admitted wrong-person arrest; children detained en route to school; documented use of force on protesters (pepper spray, rubber bullets); CBI investigation opened; covered by Denver Post, Colorado Sun, CPR, Durango Herald, ACLU; video evidence of protests.
+

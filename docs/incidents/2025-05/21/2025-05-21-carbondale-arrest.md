@@ -36,3 +36,4 @@ This arrest occurred during a period of heightened ICE activity in Garfield Coun
 
 ## Editorial Assessment
 **MEDIUM** - Covered by Post Independent and Vail Daily; part of documented pattern of Garfield County enforcement; limited details about specific individual.
+

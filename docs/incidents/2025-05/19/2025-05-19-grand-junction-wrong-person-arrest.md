@@ -48,3 +48,4 @@ Ramirez Ovando became a plaintiff in the ACLU v. ICE lawsuit. The November 2025 
 
 ## Editorial Assessment
 **HIGH** - Part of successful federal lawsuit; ICE admitted wrong-person arrest; 90+ day detention documented; covered by Colorado Sun and Newsline; federal court ruling citing this case.
+

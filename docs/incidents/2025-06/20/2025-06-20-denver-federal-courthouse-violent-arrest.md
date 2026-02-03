@@ -43,3 +43,4 @@ Witnesses described the arrest as "very roughly, very violently" conducted in fr
 
 ## Editorial Assessment
 **HIGH** - Covered by Denver Post and Denverite; involves both violent arrest in front of child and detention of legal observer (First Amendment implications); observer charges dropped confirming lack of justification.
+

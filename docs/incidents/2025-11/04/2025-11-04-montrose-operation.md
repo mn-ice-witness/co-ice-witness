@@ -36,3 +36,4 @@ Montrose is located on Colorado's Western Slope, an agricultural region. The Mon
 
 ## Editorial Assessment
 **MEDIUM** - Single source (Montrose Daily Press); limited details available; physical evidence (abandoned truck) documented; local police presence noted.
+

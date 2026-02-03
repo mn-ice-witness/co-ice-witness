@@ -74,3 +74,4 @@ The apartment complex was later closed on February 18, 2025, displacing approxim
 
 ## Editorial Assessment
 **HIGH** - Multiple independent news sources (Colorado Sun, Denverite, Denver Post, CPR News, Colorado Newsline, CBS Colorado) with on-the-ground reporting, witness interviews, and official statements from ICE and local government.
+

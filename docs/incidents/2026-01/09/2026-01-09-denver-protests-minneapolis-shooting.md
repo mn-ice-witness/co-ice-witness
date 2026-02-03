@@ -54,3 +54,4 @@ Good's death sparked nationwide protests and intensified scrutiny of ICE tactics
 
 ## Editorial Assessment
 **HIGH** - Extensively covered by CPR, Colorado Newsline, Denver7; involves U.S. citizen killed by ICE; victim from Colorado; Governor commented; 1,000+ protesters documented; sparked statewide protest movement.
+

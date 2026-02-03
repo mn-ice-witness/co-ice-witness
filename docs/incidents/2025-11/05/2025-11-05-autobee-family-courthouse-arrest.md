@@ -55,3 +55,4 @@ Cristiana reported being in therapy, unable to sleep, and having no money for an
 
 ## Editorial Assessment
 **HIGH** - Covered by Pikes Peak Bulletin and CBS Colorado; video of encounter exists; involves family with deep Colorado roots; self-deportation on wedding anniversary; federal court ruling came days later confirming such arrests were unlawful.
+

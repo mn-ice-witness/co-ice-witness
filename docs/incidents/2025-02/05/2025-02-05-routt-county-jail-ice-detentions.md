@@ -44,3 +44,4 @@ This pattern of ICE waiting for individuals to bond out before detaining them wa
 
 ## Editorial Assessment
 **HIGH** - Covered by KUNC and Steamboat Pilot (multiple articles); specific individuals named with details; documents pattern of post-jail-release detentions.
+

@@ -58,3 +58,4 @@ The family had work permits and jobs at a construction company in the Salida are
 
 ## Editorial Assessment
 **HIGH** - Detailed coverage by Colorado Sun and CPR News; family had work permits and legal employment; child separated and detained; released after nearly one month; documented by ACLU as part of broader pattern of unlawful arrests.
+

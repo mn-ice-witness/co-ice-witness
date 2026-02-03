@@ -34,3 +34,4 @@ Announced the arrest as part of the "worst of the worst" enforcement actions, hi
 
 ## Editorial Assessment
 **HIGH** - DHS press release with named individual; corroborated by local news (KKTV); specific charges and gang affiliation documented; part of broader enforcement pattern in Colorado.
+

@@ -41,3 +41,4 @@ This was documented as the first time ICE had come to a Telluride residence look
 
 ## Editorial Assessment
 **MEDIUM** - Single source (Telluride Daily Planet); first documented ICE visit to Telluride residence is significant; unrelated arrest after failing to find target raises questions about enforcement patterns.
+

@@ -49,3 +49,4 @@ Students and parents at Global Village Academy expressed shock and concern about
 
 ## Editorial Assessment
 **HIGH** - Covered by CPR, Denver Post, Chalkbeat, CBS Colorado, Colorado Sun; involves teacher with school-confirmed work authorization; detention of family with minor children at routine appointment; multiple independent sources.
+

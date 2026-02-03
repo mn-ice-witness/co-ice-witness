@@ -50,3 +50,4 @@ The incident occurred during a period of increased ICE activity in Routt County.
 
 ## Editorial Assessment
 **MEDIUM** - Covered by KUNC, Steamboat Pilot, Denver Post; involves elected official and First Amendment activity (filming); conflicting accounts between commissioner and ICE; no independent video verification of the "boxing in" incident.
+

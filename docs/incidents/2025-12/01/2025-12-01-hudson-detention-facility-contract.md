@@ -53,3 +53,4 @@ This is one of three confirmed new ICE detention sites in Colorado (along with f
 
 ## Editorial Assessment
 **HIGH** - Covered by CBS Colorado, Colorado Newsline, ACLU, Longmont Leader, Denver Post; significant expansion of detention infrastructure; community opposition documented; contract value and capacity confirmed.
+

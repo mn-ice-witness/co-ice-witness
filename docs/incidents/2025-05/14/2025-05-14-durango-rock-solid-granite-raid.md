@@ -41,3 +41,4 @@ Confirmed this was the first "real raid" in Durango since Trump's second term be
 
 ## Editorial Assessment
 **HIGH** - Covered by Durango Herald with multiple articles; confirmed by local advocacy group; specific details about number of agents, vehicles, and workers detained.
+

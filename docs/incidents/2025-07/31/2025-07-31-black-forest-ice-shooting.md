@@ -56,3 +56,4 @@ A 16-year-old girl came to the site after receiving video from her uncle showing
 
 ## Editorial Assessment
 **HIGH** - Covered by Colorado Springs Gazette, CPR, Denver Post, Denver7; use of deadly force documented; multiple witness accounts; CIRC demanded investigation.
+

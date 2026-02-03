@@ -42,3 +42,4 @@ This was the second such order in Colorado, following the Ninth Judicial Distric
 
 ## Editorial Assessment
 **HIGH** - Covered by CPR News; second judicial district to issue courthouse protection order; covers six counties in agricultural San Luis Valley region; establishes growing pattern of judicial enforcement.
+

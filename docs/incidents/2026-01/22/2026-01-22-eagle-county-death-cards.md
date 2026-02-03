@@ -59,3 +59,4 @@ The ace of spades has been used as a symbol of death since the Vietnam War, when
 
 ## Editorial Assessment
 **HIGH** - Covered by Denver7, CBS Colorado, Aspen Public Radio, Vail Daily (multiple articles); DHS officially opened investigation and condemned conduct; physical evidence (cards) documented; clear pattern of intimidation; 9 detentions confirmed.
+

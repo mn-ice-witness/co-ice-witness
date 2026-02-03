@@ -46,3 +46,4 @@ This was the first confirmed ICE operation in Grand County, a ski resort area wi
 
 ## Editorial Assessment
 **HIGH** - Covered by Sky-Hi News (multiple articles); involves both legal worker questioning and undocumented arrest; first confirmed ICE activity in Grand County; specific details about affected individuals available.
+

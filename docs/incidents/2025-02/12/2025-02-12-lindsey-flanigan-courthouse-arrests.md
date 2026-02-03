@@ -41,3 +41,4 @@ Colorado's SB20-083 (passed 2020) prohibits civil immigration arrests at courtho
 
 ## Editorial Assessment
 **HIGH** - Confirmed by Colorado Immigrant Rights Coalition with detailed press release; covered by Denver Post; involves documented violation of state law.
+

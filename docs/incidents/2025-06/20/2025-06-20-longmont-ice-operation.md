@@ -46,3 +46,4 @@ Stated FBI was present for a "criminal matter not related to immigration status.
 
 ## Editorial Assessment
 **MEDIUM** - Covered by Longmont Leader and Times-Call; conflicting accounts between ICE and Rapid Response Network; no arrests to document; listed in Times-Call top 10 Boulder County stories of 2025.
+

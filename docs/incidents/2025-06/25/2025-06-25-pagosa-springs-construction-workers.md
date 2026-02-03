@@ -35,3 +35,4 @@ This incident reflects a pattern of ICE targeting construction workers during th
 
 ## Editorial Assessment
 **MEDIUM** - Single source (Durango Herald); documented by local advocacy group Compañeros; limited details available but fits documented pattern of targeting construction workers.
+

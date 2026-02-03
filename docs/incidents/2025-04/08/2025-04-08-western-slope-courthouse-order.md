@@ -41,3 +41,4 @@ Colorado's SB20-083 (passed 2020) prohibits civil immigration arrests at courtho
 
 ## Editorial Assessment
 **HIGH** - First judicial enforcement of courthouse protection law; covered by CPR News; documented pattern of 5-10 courthouse detentions preceding the order; establishes legal precedent for other jurisdictions.
+

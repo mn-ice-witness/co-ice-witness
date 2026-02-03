@@ -55,3 +55,4 @@ Mesa County filed counter-lawsuit claiming state law was unconstitutional. Case 
 
 ## Editorial Assessment
 **HIGH** - Extensively documented by CPR, Denver Post, 9News, Colorado Newsline; deputy resigned; AG filed lawsuit; became federal court case plaintiff; clear violation of state law documented.
+

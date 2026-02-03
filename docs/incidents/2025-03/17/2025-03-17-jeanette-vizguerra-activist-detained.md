@@ -49,3 +49,4 @@ ICE officers were allegedly "laughing" as they detained her.
 
 ## Editorial Assessment
 **HIGH** - Extensively covered by Washington Post, Colorado Sun, CPR, Denver Post; subject is nationally known figure; federal judge found potential First Amendment retaliation; arrest occurred day after public protest.
+

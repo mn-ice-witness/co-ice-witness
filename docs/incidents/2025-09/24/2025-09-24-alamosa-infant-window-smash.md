@@ -55,3 +55,4 @@ ICE is not allowed to arrest people going to or from a courthouse under Colorado
 
 ## Editorial Assessment
 **HIGH** - Video evidence; covered by Colorado Sun, Alamosa News, 9News; ACLU condemned tactics; infant endangered by broken glass; potential violation of courthouse protection law.
+

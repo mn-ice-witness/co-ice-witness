@@ -86,3 +86,4 @@ The raid raised concerns about profiling, as advocacy groups noted that most det
 
 ## Editorial Assessment
 **HIGH** - Extensive coverage from multiple major outlets (CNN, Colorado Sun, CPR News, CBS Colorado, Denver Post, Military.com) with official statements from DEA, ICE, and military. Documented outcomes including removal statistics and subsequent criminal charges.
+

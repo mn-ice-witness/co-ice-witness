@@ -59,3 +59,4 @@ This incident occurred two months before the highly-publicized February 2025 ICE
 
 ## Editorial Assessment
 **HIGH** - Documented by Colorado Immigrant Rights Coalition, Denver7, and Denverite; ACLU lawsuit filed; involves detention of minor children and potential First Amendment violations against observers requesting warrants.
+
