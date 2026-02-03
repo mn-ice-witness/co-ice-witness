@@ -2,34 +2,50 @@
 
 **This project is designed to work with an AI coding assistant**, preferably Claude Code using Opus 4.5.
 
-## CRITICAL: READ THE MASTER CONTEXT FIRST
+---
 
-**STOP. Before doing ANYTHING, you MUST read:**
+## CRITICAL: BOOTSTRAP CHECK
 
-```
-us-ice-witness/CONTEXT.md
-```
+**Before doing ANYTHING, check if the shared codebase is set up:**
 
-**That file contains ALL the instructions for:**
-- How to add incidents
-- Incident schema and required fields
-- How to process media
-- The 5 incident categories
-- Validation rules
-- Deployment process
-- Key reference files in `dev-docs/`
-
-**This file only contains Colorado-specific information. The master context has everything else.**
-
-If `us-ice-witness/` doesn't exist, get it first:
 ```bash
-# Option A: Clone nearby + symlink (recommended)
-git clone https://github.com/mn-ice-witness/us-ice-witness.git ../GIT_US_ICE_WITNESS
-ln -s ../GIT_US_ICE_WITNESS us-ice-witness
-
-# Option B: Clone directly
-git clone https://github.com/mn-ice-witness/us-ice-witness.git us-ice-witness
+ls -la us-ice-witness-repo/CONTEXT.md
 ```
+
+### If the folder exists and works:
+
+**Read the master instructions:**
+```
+us-ice-witness-repo/CONTEXT.md
+```
+
+That file contains ALL instructions for incidents, media, schemas, validation, and deployment.
+
+**Then return here** for Colorado-specific info below.
+
+### If the folder does NOT exist:
+
+The shared codebase must be set up first. Ask the user:
+
+> "The shared `us-ice-witness-repo` folder is missing. Would you like me to set it up?"
+>
+> **Option A: Clone nearby + symlink (Recommended)**
+> ```bash
+> git clone https://github.com/mn-ice-witness/us-ice-witness.git ../GIT_US_ICE_WITNESS
+> ln -s ../GIT_US_ICE_WITNESS us-ice-witness-repo
+> ```
+>
+> **Option B: Clone directly**
+> ```bash
+> git clone https://github.com/mn-ice-witness/us-ice-witness.git us-ice-witness-repo
+> ```
+
+After setup, install hooks:
+```bash
+./us-ice-witness-repo/hooks/install-hooks.sh
+```
+
+**Documentation:** https://docs.ice-witness.org
 
 ---
 
@@ -56,10 +72,6 @@ git clone https://github.com/mn-ice-witness/us-ice-witness.git us-ice-witness
 
 See `dev-docs/NEWS-SOURCES.md` for state-specific news sources to monitor.
 
-## Setup Help
-
-If you need to set up this repo, see `dev-docs/SETUP-HELPER.md` for step-by-step instructions.
-
 ---
 
 ## Quick Reference
@@ -72,7 +84,13 @@ If you need to set up this repo, see `dev-docs/SETUP-HELPER.md` for step-by-step
 
 **Generate summary:**
 ```bash
-./us-ice-witness/bin/run generate_summary.py
+./us-ice-witness-repo/bin/run generate_summary.py
 ```
 
-**Remember: All detailed instructions are in `us-ice-witness/CONTEXT.md`**
+---
+
+## Remember
+
+- **Most instructions are in `us-ice-witness-repo/CONTEXT.md`**
+- **Full documentation at https://docs.ice-witness.org**
+- This file only contains Colorado-specific information
