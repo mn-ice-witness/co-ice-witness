@@ -22,16 +22,16 @@ docs/
 
 1. Clone the main repo for scripts and docs:
    ```bash
-   git clone https://github.com/mn-ice-witness/us-ice-witness.git us-ice-witness
+   git clone https://github.com/mn-ice-witness/us-ice-witness.git us-ice-witness-repo
    ```
 
 2. Read the editorial guidelines:
-   - `us-ice-witness/dev-docs/adding-incidents.md`
-   - `us-ice-witness/dev-docs/incident-schema.md`
+   - `us-ice-witness-repo/dev-docs/adding-incidents.md`
+   - `us-ice-witness-repo/dev-docs/incident-schema.md`
 
 3. Create incident file in `docs/incidents/YYYY-MM/slug/index.md`
 
-4. Run: `python us-ice-witness/scripts/generate_summary.py`
+4. Run: `./us-ice-witness-repo/bin/run generate_summary.py`
 
 5. Commit and push
 

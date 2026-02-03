@@ -4,7 +4,7 @@
 
 Before doing ANY task, you MUST read these files:
 
-1. **First read: `us-ice-witness/CONTEXT.md`**
+1. **First read: `us-ice-witness-repo/CONTEXT.md`**
    - Contains ALL instructions for incidents, media, schemas
    - Has the 5 incident categories
    - Has validation rules and required fields
@@ -15,13 +15,13 @@ Before doing ANY task, you MUST read these files:
 
 ## Key Facts
 
-- All incident schemas, categories, and rules are in `us-ice-witness/CONTEXT.md`
+- All incident schemas, categories, and rules are in `us-ice-witness-repo/CONTEXT.md`
 - This state repo only contains state-specific context
 - Never add an incident without reading the master context first
-- Media scripts are in `us-ice-witness/bin/`
+- Media scripts are in `us-ice-witness-repo/bin/`
 - Raw media goes in `raw_media/`, processed output goes to `docs/media/`
 
 ## Quick Commands
 
-- Generate summary: `./us-ice-witness/bin/run generate_summary.py`
-- Process media: `./us-ice-witness/bin/run process_media.py`
+- Generate summary: `./us-ice-witness-repo/bin/run generate_summary.py`
+- Process media: `./us-ice-witness-repo/bin/run process_media.py`
