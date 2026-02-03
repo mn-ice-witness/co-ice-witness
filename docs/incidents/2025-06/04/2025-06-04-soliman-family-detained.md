@@ -19,7 +19,7 @@ last_updated: 2026-02-03T14:33:14
 - **Sep 2025** - Immigration judge initially grants bond, finding family "not a danger to the community."
 
 ## Summary
-ICE detained Hayam Salah Alsaid Ahmed El Gamal, 41, and her five children two days after her husband Mohamed Sabry Soliman carried out a firebomb attack on Boulder's Pearl Street Mall that injured 12 people. DHS Secretary Kristi Noem announced the detention on social media. The family had no involvement in the attack; Soliman told police his family was uninvolved, and his wife voluntarily turned in his phone. The FBI later testified the family knew nothing of the attack plans. The family was transferred to the Dilley Immigration Processing Center in Texas, where they have been held for over seven months. An immigration judge initially granted bond in September 2025, but reversed the decision in January 2026 after DHS called the children "terrorist adjacent."
+ICE detained Hayam Salah Alsaid Ahmed El Gamal, 41, and her five children two days after her husband Mohamed Sabry Soliman carried out a firebomb attack on Boulder's Pearl Street Mall that injured 29 people and killed an 82-year-old woman. DHS Secretary Kristi Noem announced the detention on social media. The family had no involvement in the attack; Soliman told police his family was uninvolved, and his wife voluntarily turned in his phone. The FBI later testified the family knew nothing of the attack plans. The family was transferred to the Dilley Immigration Processing Center in Texas, where they have been held for over seven months. An immigration judge initially granted bond in September 2025, but reversed the decision in January 2026 after DHS called the children "terrorist adjacent."
 
 ## Sources
 1. CPR News (Jun 3, 2025): [Family of Boulder attack suspect is being taken into ICE custody](https://www.cpr.org/2025/06/03/ice-detains-family-of-boulder-attack-suspect/)
@@ -42,7 +42,7 @@ ICE detained Hayam Salah Alsaid Ahmed El Gamal, 41, and her five children two da
 - **Background:** Family was living in Colorado Springs, children attending local schools. No criminal charges pending against any family member. Wife cooperated with investigators and voluntarily turned in husband's phone. FBI testified family knew nothing of the attack plans.
 
 ## Timeline
-- **Jun 1, 2025** - Mohamed Sabry Soliman carries out firebomb attack on Pearl Street Mall in Boulder, injuring 12 people
+- **Jun 1, 2025** - Mohamed Sabry Soliman carries out firebomb attack on Pearl Street Mall in Boulder, injuring 29 people; an 82-year-old woman later dies from her injuries
 - **Jun 3, 2025** - ICE detains Hayam El Gamal and five children; DHS Secretary Noem announces detention; family placed in expedited removal proceedings and transferred to Dilley Immigration Processing Center in Texas
 - **Jun 4, 2025** - U.S. District Judge Gordon P. Gallagher issues temporary restraining order blocking immediate deportation
 - **Jul 2, 2025** - Judge rules the family can be deported
