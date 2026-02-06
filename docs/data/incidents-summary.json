@@ -1,6 +1,32 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-01/28/2026-01-28-old-snowmass-worker-detained.md",
+      "title": "Worker Detained on Way to Job Site in Old Snowmass",
+      "summary": "A worker was followed from their home to a job site near Old Snowmass on January 28, 2026, and detained by ICE agents around 7:30 a.m. The individual was transported to the Aurora ICE detention center. Voces Unidas de Las Montanas confirmed the detention and is providing legal support.",
+      "latestUpdate": null,
+      "date": "2026-01-28",
+      "time": "\"07:30\"",
+      "location": "Job site near Old Snowmass",
+      "city": "Old Snowmass",
+      "type": "immigrants",
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "unknown",
+      "injuries": "none",
+      "trustworthiness": "medium",
+      "created": "2026-02-05T14:23:38",
+      "lastUpdated": "2026-02-05T14:23:38",
+      "mediaCount": 0,
+      "notable": false,
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-01/22/2026-01-22-eagle-county-death-cards.md",
       "title": "ICE Agents Leave \"Death Cards\" in Vehicles of Detained; DHS Investigating",
       "summary": "ICE agents detained nine Latino men in Eagle County \u2014 eight during what advocates called \"fake traffic stops\" using vehicles with red and blue flashing lights to mimic local law enforcement, and one while walking to a bus stop in Avon. Agents left customized 4x6-inch ace of spades playing cards (bearing \"ICE Denver Field Office\" text and the Aurora detention center address) inside at least two vehicles of detained individuals. The ace of spades has historical associations with racism and death dating to the Vietnam War. DHS announced an investigation and \"unequivocally condemns this type of action and/or officer conduct.\" Six Colorado members of Congress demanded an independent OIG investigation into the Denver Field Office. Of the nine detained, one was from Mexico and the rest from Central and South American countries including Honduras, Nicaragua, and Peru. All nine were transported to the Aurora ICE Processing Center.",
