@@ -12,17 +12,17 @@ Primary news sources for documenting ICE incidents in Colorado.
 - **Notes:** Daily circulation ~57,000; Colorado's largest paper
 
 ### Colorado Sun
-- **Type:** Online newspaper (nonprofit)
+- **Type:** Online nonprofit
 - **Coverage Area:** Statewide
 - **URL:** https://coloradosun.com/
 - **Immigration Coverage:** Excellent investigative reporting on ICE arrests, data analysis
-- **Notes:** Founded 2018 by former Rocky Mountain News journalists; data-driven reporting
+- **Notes:** Founded 2018 by former Denver Post journalists; data-driven reporting
 
 ### Denver Gazette
-- **Type:** Daily newspaper
+- **Type:** Online news site
 - **Coverage Area:** Denver metro
 - **URL:** https://www.denvergazette.com/
-- **Notes:** Owned by Philip Anschutz
+- **Notes:** Owned by Philip Anschutz, affiliated with Gazette and Colorado Politics
 
 ## Tier 2: Television News Stations
 
@@ -95,7 +95,28 @@ Primary news sources for documenting ICE incidents in Colorado.
 - **Coverage Area:** Boulder County
 - **URL:** https://www.dailycamera.com/
 
+### Summit Daily
+- **Type:** Daily newspaper
+- **Coverage area:** Summit County
+- **URL:** https://www.summitdaily.com/
+
+### Steamboat Pilot & Today
+- **Type:** Daily newspaper
+- **Coverage area:** Northwestern Colorado
+- **URL:** https://www.steamboatpilot.com/
+
+### Glenwood Springs Post Independent
+- **Type:** Daily newspaper
+- **Coverage area:** Garfield County, but also some Aspen
+- **URL:** https://www.postindependent.com/
+
 ## Tier 5: Independent/Online News
+
+### Aurora Sentinel
+- **Type** Online local news
+- **Coverage area** Aurora
+- **URL:** https://sentinelcolorado.com/
+- **Notes:** Geo Group ICE detention facility based here; third largest city in state
 
 ### Colorado Newsline
 - **Type:** Online nonprofit
@@ -109,25 +130,19 @@ Primary news sources for documenting ICE incidents in Colorado.
 - **Coverage Area:** Denver
 - **URL:** https://denverite.com/
 - **Immigration Coverage:** Good local Denver coverage
-- **Notes:** Donation-supported
+- **Notes:** Donation-supported, affiliated with CPR
 
 ### Colorado Politics
-- **Type:** Online news
+- **Type:** Online news site
 - **Coverage Area:** Statewide
 - **URL:** https://www.coloradopolitics.com/
-- **Notes:** Political focus; good policy coverage
+- **Notes:** Political focus; good policy coverage, part of Gazette group
 
 ### Westword
 - **Type:** Alternative weekly
 - **Coverage Area:** Denver
 - **URL:** https://www.westword.com/
 - **Notes:** Alternative perspective; arts/culture/investigative
-
-### The Colorado Independent
-- **Type:** Online nonprofit
-- **Coverage Area:** Statewide
-- **URL:** https://www.coloradoindependent.com/
-- **Notes:** Investigative journalism focus
 
 ## Tier 6: Immigration-Specific Sources
 
@@ -148,7 +163,7 @@ Primary news sources for documenting ICE incidents in Colorado.
 
 Colorado's immigrant population is concentrated in:
 - **Denver:** Largest city, sanctuary city, highly publicized enforcement
-- **Aurora:** Large immigrant population, apartment raids in February 2025
+- **Aurora:** Large immigrant population, long-time home of refugees, apartment raids in February 2025
 - **Colorado Springs:** Growing community, nightclub raid in April 2025
 - **Greeley/Weld County:** Agricultural workforce
 - **Western Slope:** Agricultural and service workers
