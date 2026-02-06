@@ -1,0 +1,73 @@
+---
+date: 2026-02-05
+time: unknown
+location: U.S. District Court for Colorado
+city: Denver
+type: immigrants
+status: ongoing
+affected_individual_citizenship: various
+injuries: none
+trustworthiness: high
+created: 2026-02-06T08:41:53
+last_updated: 2026-02-06T08:41:53
+---
+
+# ACLU Files Amended Complaint Alleging ICE Continues Violating Court Order
+
+## Summary
+The ACLU of Colorado and two Denver law firms filed a 98-page amended complaint alleging ICE continues to make warrantless arrests in violation of the November 25 preliminary injunction from U.S. District Judge R. Brooke Jackson. The filing documents multiple new arrests including a Venezuelan asylum seeker boxed in on Christmas Eve, three men detained en route to a cemetery job in Bennett, and three African asylum seekers from the East Colfax Community Collective. Lawyers are requesting "permanent class-wide injunctive relief."
+
+## Sources
+1. Colorado Sun (Feb 5, 2026): [ICE is violating court order against warrantless arrests in Colorado, lawyers say](https://coloradosun.com/2026/02/05/ice-violating-court-order-warrantless-arrests-colorado-lawyers-say/)
+2. Denver Post (Feb 6, 2026): [Colorado immigration lawyers say leaked ICE memo is enabling agents to make illegal arrests](https://www.denverpost.com/2026/02/06/colorado-ice-arrests-warrant-illegal/)
+
+## Related Incidents
+- [Federal Judge Rules ICE Conduct in Colorado "Unlawful"](#2025-11-25-federal-court-ice-unlawful)
+- [Eagle County Death Cards](#2026-01-22-eagle-county-death-cards)
+
+## Affected Individual(s)
+
+### R.J.R.P. (Venezuelan asylum seeker)
+- **Arrest date:** December 24, 2025 (Christmas Eve)
+- **Circumstances:** Boxed in by ICE vehicles while driving to work; arrested without a warrant
+- **Background:** No criminal record; lived near sister and daughter
+- **Status:** Remains in Aurora ICE detention center
+
+### Three men en route to Bennett cemetery job (late December 2025)
+- **Arrest date:** Late December 2025
+- **Circumstances:** Car stopped; three men arrested without a warrant on their way to a cemetery job in Bennett
+- **Background:** Driver and one passenger had lived in Colorado for 25 years; none had criminal history; one has two U.S. citizen daughters
+- **Status:** Driver and one passenger remain at Aurora facility
+
+### East Colfax Community Collective members
+- **Number:** At least 3
+- **Circumstances:** Arrested at their apartments
+- **Background:** All dark-skinned asylum seekers originally from countries in Africa
+- **Status:** At least one remains in Aurora detention center
+
+## Case Information
+- **Case Name:** Ramirez Ovando v. Noem (amended complaint)
+- **Judge:** U.S. District Judge R. Brooke Jackson
+- **Court:** U.S. District Court for the District of Colorado
+- **Plaintiffs' Counsel:** ACLU of Colorado, Meyer Law Office, Olson Grimsley Kawanabe Hinchcliff & Murray LLC
+- **New plaintiff:** East Colfax Community Collective (Denver-based organization)
+
+## Key Allegations
+- ICE agents continue to arrest people without determining immigration status or flight risk
+- Arrests are made based on skin color, violating Fourth Amendment protections
+- ICE has not reimbursed three plaintiffs for bond money as ordered by the court
+- A leaked internal ICE memo (obtained by the Associated Press on January 21) authorizes agents to forcibly enter homes without a judge-issued warrant
+
+## Official Accounts
+
+### Karen McCarthy, Elevation Law
+"We've all been reeling with what is going on around the country. Our number one goal is both to protect our clients and the community and, quite frankly, to hold our government accountable and make sure that our current administration follows the Constitution."
+
+### DHS Position
+The Department of Homeland Security argues that using administrative warrants to enter homes is lawful because those served have received due process, and contends that "illegal aliens don't have the same rights as citizens."
+
+## Context
+The amended complaint documents a pattern of continued warrantless arrests since the November 25 injunction. ICE arrested at least 3,522 people in Colorado from January 20 to October 15, 2025, up from 843 during the same period in 2024. Only 37% of those arrested had prior criminal convictions, down from 61% in 2024.
+
+## Editorial Assessment
+**HIGH** - Colorado Sun lead reporting plus Denver Post coverage; based on formal 98-page court filing by ACLU of Colorado and two law firms; documents specific arrest incidents with details; directly tied to existing federal court injunction; named attorneys and organizations quoted.
