@@ -23,6 +23,9 @@ Colorado Democratic lawmakers unveiled a package of legislation to regulate fede
 3. Colorado Newsline (Feb 2, 2026): [Colorado Democrats advance bill to allow individuals to sue ICE agents](https://coloradonewsline.com/2026/02/02/colorado-sue-ice-agents/)
 4. KUNC (Feb 2, 2026): [Democratic lawmakers plan package of bills to further regulate federal immigration enforcement in Colorado](https://www.kunc.org/politics/2026-02-02/democratic-lawmakers-plan-package-of-bills-to-further-regulate-federal-immigration-enforcement-in-colorado)
 5. Aspen Public Radio (Feb 4, 2026): [Democratic lawmakers plan package of bills to further regulate federal immigration enforcement in Colorado](https://www.aspenpublicradio.org/immigration/2026-02-04/democratic-lawmakers-plan-package-of-bills-to-further-regulate-federal-immigration-enforcement-in-colorado)
+6. CBS Colorado (Feb 3, 2026): [Immigration agents could be sued in state court under a bill by Colorado Democrats](https://www.cbsnews.com/colorado/news/immigration-agents-sued-bill-colorado-democrats/)
+7. Colorado Springs Gazette (Feb 3, 2026): [Colorado legislators advance proposal allowing lawsuits against federal immigration agents](https://gazette.com/2026/02/03/colorado-legislators-advance-proposal-allowing-lawsuits-against-federal-immigration-agents-1/)
+8. 9News (Feb 2, 2026): [Colorado bill would allow suing federal officers for immigration rights violations](https://www.9news.com/article/news/politics/colorado-bill-suing-federal-officers-immigration-rights-violations/73-50771f75-7c2d-4240-86e5-749b316136e7)
 
 ## Legislation Details
 
@@ -51,4 +54,4 @@ Colorado Democratic lawmakers unveiled a package of legislation to regulate fede
 Galvanized by the fatal ICE shooting of Renee Nicole Good and the killing of Alex Pretti in Minnesota, and by escalating enforcement tactics in Colorado including agents drawing weapons and smashing car windows with children inside. ICE arrested at least 3,522 people in Colorado from January to October 2025, up from 843 during the same period in 2024. Only 37% had prior criminal convictions, down from 61% in 2024.
 
 ## Editorial Assessment
-**HIGH** - Covered by five independent sources (Colorado Sun, Denver Post, Colorado Newsline, KUNC, Aspen Public Radio); official bill text available through Colorado General Assembly; named sponsors and specific provisions documented; committee vote recorded.
+**HIGH** - Covered by eight independent sources (Colorado Sun, Denver Post, Colorado Newsline, KUNC, Aspen Public Radio, CBS Colorado, Colorado Springs Gazette, 9News); official bill text available through Colorado General Assembly; named sponsors and specific provisions documented; committee vote recorded.

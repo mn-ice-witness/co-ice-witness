@@ -65,6 +65,11 @@ Primary news sources for documenting ICE incidents in Colorado.
 - **Coverage Area:** Colorado
 - **URL:** https://www.rmpbs.org/
 
+### KUNC
+- **Type:** Public radio
+- **Coverage Area:** Northern Colorado
+- **URL:** https://www.kunc.org/ 
+
 ## Tier 4: Regional/Local Papers
 
 ### Colorado Springs Gazette
@@ -97,24 +102,34 @@ Primary news sources for documenting ICE incidents in Colorado.
 
 ### Summit Daily
 - **Type:** Daily newspaper
-- **Coverage area:** Summit County
+- **Coverage Area:** Summit County
 - **URL:** https://www.summitdaily.com/
 
 ### Steamboat Pilot & Today
 - **Type:** Daily newspaper
-- **Coverage area:** Northwestern Colorado
+- **Coverage Area:** Northwestern Colorado
 - **URL:** https://www.steamboatpilot.com/
 
 ### Glenwood Springs Post Independent
 - **Type:** Daily newspaper
-- **Coverage area:** Garfield County, but also some Aspen
+- **Coverage Area:** Garfield County, but also some Aspen
 - **URL:** https://www.postindependent.com/
+
+### Alamosa Citizen
+- **Type:** Online local news
+- **Coverage Area:** San Luis Valley
+- **URL:** https://www.alamosacitizen.com/
+
+### Durango Herald
+- **Type:** Daily newspaper
+- **Coverage Area:** Southwestern Colorado, Northwestern New Mexico
+- **URL:** https://www.durangoherald.com/
 
 ## Tier 5: Independent/Online News
 
 ### Aurora Sentinel
-- **Type** Online local news
-- **Coverage area** Aurora
+- **Type** Online nonprofit
+- **Coverage Area** Aurora
 - **URL:** https://sentinelcolorado.com/
 - **Notes:** Geo Group ICE detention facility based here; third largest city in state
 
@@ -143,6 +158,11 @@ Primary news sources for documenting ICE incidents in Colorado.
 - **Coverage Area:** Denver
 - **URL:** https://www.westword.com/
 - **Notes:** Alternative perspective; arts/culture/investigative
+
+## Chalkbeat Colorado
+- **Type:** Online education news
+- **Coverage Area:** education in Denver metro area
+- **URL:** https://www.chalkbeat.org/colorado/
 
 ## Tier 6: Immigration-Specific Sources
 

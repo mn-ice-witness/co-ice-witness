@@ -20,6 +20,10 @@ The ACLU of Colorado and two Denver law firms filed a 98-page amended complaint 
 ## Sources
 1. Colorado Sun (Feb 5, 2026): [ICE is violating court order against warrantless arrests in Colorado, lawyers say](https://coloradosun.com/2026/02/05/ice-violating-court-order-warrantless-arrests-colorado-lawyers-say/)
 2. Denver Post (Feb 6, 2026): [Colorado immigration lawyers say leaked ICE memo is enabling agents to make illegal arrests](https://www.denverpost.com/2026/02/06/colorado-ice-arrests-warrant-illegal/)
+3. CPR News (Feb 6, 2026): [ICE is violating court order against warrantless arrests in Colorado, lawyers say](https://www.cpr.org/2026/02/06/ice-violating-court-order-warrantless-arrests-colorado/)
+4. KUNC (Feb 7, 2026): [ICE is violating court order against warrantless arrests in Colorado, lawyers say](https://www.kunc.org/news/2026-02-07/ice-is-violating-court-order-against-warrantless-arrests-in-colorado-lawyers-say)
+5. Post Independent (Feb 6, 2026): [Colorado immigration lawyers say leaked ICE memo is enabling agents to make illegal arrests](https://www.postindependent.com/news/colorado-immigration-lawyers-leaked-ice-memo-illegal-arrests/)
+6. Denver Post (Feb 6, 2026): [ICE has repeatedly violated Colorado court order restricting arrests of immigrants, lawyers allege](https://www.denverpost.com/2026/02/06/colorado-ice-arrests-immigration-lawsuit/)
 
 ## Related Incidents
 - [Federal Judge Rules ICE Conduct in Colorado "Unlawful"](#2025-11-25-federal-court-ice-unlawful)
@@ -70,4 +74,4 @@ The Department of Homeland Security argues that using administrative warrants to
 The amended complaint documents a pattern of continued warrantless arrests since the November 25 injunction. ICE arrested at least 3,522 people in Colorado from January 20 to October 15, 2025, up from 843 during the same period in 2024. Only 37% of those arrested had prior criminal convictions, down from 61% in 2024.
 
 ## Editorial Assessment
-**HIGH** - Colorado Sun lead reporting plus Denver Post coverage; based on formal 98-page court filing by ACLU of Colorado and two law firms; documents specific arrest incidents with details; directly tied to existing federal court injunction; named attorneys and organizations quoted.
+**HIGH** - Six independent sources (Colorado Sun, Denver Post x2, CPR News, KUNC, Post Independent); based on formal 98-page court filing by ACLU of Colorado and two law firms; documents specific arrest incidents with details; directly tied to existing federal court injunction; named attorneys and organizations quoted.
