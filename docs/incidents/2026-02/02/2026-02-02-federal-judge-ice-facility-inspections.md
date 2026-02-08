@@ -14,6 +14,9 @@ last_updated: 2026-02-06T08:41:53
 
 # Federal Judge Orders Unannounced Congressional Access to ICE Detention Facilities
 
+## Updates
+- **Feb 6** - Reps. Crow and Neguse [conducted an unannounced inspection](https://sentinelcolorado.com/metro/reps-crow-neguse-inspect-aurora-ice-jail-unannounced-following-court-ruling/) of the GEO ICE detention facility in Aurora, their first such visit since the Feb 2 court ruling.
+
 ## Summary
 U.S. District Judge Jia M. Cobb issued a temporary restraining order allowing members of Congress unannounced access to immigration detention centers, including the GEO Group-operated facility in Aurora. The ruling blocked a DHS policy requiring seven days' notice for congressional visits. Colorado Representatives Jason Crow and Joe Neguse led the lawsuit, joined by 11 other Democratic lawmakers. The order is temporary, expiring in two weeks.
 
@@ -24,6 +27,7 @@ U.S. District Judge Jia M. Cobb issued a temporary restraining order allowing me
 4. Roll Call (Feb 2, 2026): [Judge blocks latest limits on lawmaker visits to ICE facilities](https://rollcall.com/2026/02/02/judge-blocks-latest-limits-on-lawmaker-visits-to-ice-facilities/)
 5. Democracy Forward (Feb 2, 2026): [Court Orders DHS to Restore Congressional Oversight of ICE Detention Facilities](https://democracyforward.org/news/press-releases/court-orders-dhs-to-restore-congressional-oversight-of-ice-detention-facilities/)
 6. Rep. Jason Crow (Feb 2, 2026): [Crow Granted Emergency Relief in Lawsuit to Uphold Congressional Oversight](https://crow.house.gov/media/press-releases/crow-granted-emergency-relief-in-lawsuit-to-uphold-congressional-oversight-of-federal-immigration-detention-facilities)
+7. Sentinel Colorado (Feb 7, 2026): [Reps Crow, Neguse inspect Aurora ICE jail unannounced following court ruling](https://sentinelcolorado.com/metro/reps-crow-neguse-inspect-aurora-ice-jail-unannounced-following-court-ruling/)
 
 ## Case Information
 - **Judge:** U.S. District Judge Jia M. Cobb

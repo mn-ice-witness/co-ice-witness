@@ -26,6 +26,8 @@ Colorado Democratic lawmakers unveiled a package of legislation to regulate fede
 6. CBS Colorado (Feb 3, 2026): [Immigration agents could be sued in state court under a bill by Colorado Democrats](https://www.cbsnews.com/colorado/news/immigration-agents-sued-bill-colorado-democrats/)
 7. Colorado Springs Gazette (Feb 3, 2026): [Colorado legislators advance proposal allowing lawsuits against federal immigration agents](https://gazette.com/2026/02/03/colorado-legislators-advance-proposal-allowing-lawsuits-against-federal-immigration-agents-1/)
 8. 9News (Feb 2, 2026): [Colorado bill would allow suing federal officers for immigration rights violations](https://www.9news.com/article/news/politics/colorado-bill-suing-federal-officers-immigration-rights-violations/73-50771f75-7c2d-4240-86e5-749b316136e7)
+9. Westword (~Feb 3, 2026): [Defy or Ally? Dueling Proposals Will Determine How Colorado Police Handle ICE](https://www.westword.com/news/dueling-proposals-determine-how-colorado-police-handle-ice-40839091/)
+10. Denver Post (Feb 8, 2026): [Colorado Democrats ramp up anti-ICE strategy after raids, killings](https://www.denverpost.com/2026/02/08/colorado-ice-protest-bills-immigration/)
 
 ## Legislation Details
 

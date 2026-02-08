@@ -68,7 +68,7 @@ Primary news sources for documenting ICE incidents in Colorado.
 ### KUNC
 - **Type:** Public radio
 - **Coverage Area:** Northern Colorado
-- **URL:** https://www.kunc.org/ 
+- **URL:** https://www.kunc.org/
 
 ## Tier 4: Regional/Local Papers
 
