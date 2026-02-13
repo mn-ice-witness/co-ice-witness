@@ -19,11 +19,13 @@ Caroline Dias Goncalves, a 19-year-old University of Utah nursing student from B
 
 ## Sources
 1. CPR News (Jun 16, 2025): [Mesa County immigration detention](https://www.cpr.org/2025/06/16/mesa-county-immigration-detention/)
-2. Colorado Newsline (Jun 17, 2025): [Use of Signal message led to student's ICE arrest](https://coloradonewsline.com/2025/06/17/use-of-signal-message-contradictory-to-colorado-law-led-to-utah-students-ice-arrest-sheriff-says/)
-3. Denver Post (Jun 18, 2025): [Colorado immigration arrest Caroline Dias Goncalves](https://www.denverpost.com/2025/06/18/colorado-immigration-arrest-caroline-dias-goncalves-utah-ice/)
-4. 9News (Jun 2025): [Colorado AG sues deputy](https://www.9news.com/article/news/local/colorado-news/colorado-deputy-sued-utah-student-ice-detained-arrest/73-93100e41-06fd-4466-b6d8-50a4a2ee4d91)
+2. Colorado Sun via Salt Lake City Tribune (June 17, 2025): [Utah student detained after ICE gained secret access to Colorado deputy’s Signal chat, sheriff’s office says](https://coloradosun.com/2025/06/17/utah-student-arrested-ice-mesa-county-signal-chat/)
+3. Colorado Newsline (Jun 17, 2025): [Use of Signal message led to student's ICE arrest](https://coloradonewsline.com/2025/06/17/use-of-signal-message-contradictory-to-colorado-law-led-to-utah-students-ice-arrest-sheriff-says/)
+4. Denver Post (Jun 18, 2025): [Colorado immigration arrest Caroline Dias Goncalves](https://www.denverpost.com/2025/06/18/colorado-immigration-arrest-caroline-dias-goncalves-utah-ice/)
+5. 9News (Jun 2025): [Colorado AG sues deputy](https://www.9news.com/article/news/local/colorado-news/colorado-deputy-sued-utah-student-ice-detained-arrest/73-93100e41-06fd-4466-b6d8-50a4a2ee4d91)
 5. CPR News (Jun 18, 2025): [College student detained by ICE granted bond](https://www.cpr.org/2025/06/18/college-student-detained-by-ice-mesa-county-granted-bond/)
 6. CPR News (Aug 26, 2025): [Mesa County sheriffs deputy resigns](https://www.cpr.org/2025/08/26/mesa-county-sheriffs-deputy-ice-stop-resigns/)
+ 
 
 ## Affected Individual(s)
 - **Name:** Caroline Dias Goncalves

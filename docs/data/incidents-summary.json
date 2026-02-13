@@ -593,13 +593,18 @@
       "lastUpdated": "2026-01-27T22:56:08",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
-      "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2025-10/27/2025-10-27-durango-family-school-route.mp4",
+      "localMediaOgPath": "media/2025-10/27/2025-10-27-durango-family-school-route-og-2s-1771014940.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2025-10/27/2025-10-27-durango-family-school-route.mp4"
+        }
+      ],
+      "aspectRatio": 0.5583333333333333,
+      "mediaVersion": 1771014940
     },
     {
       "filePath": "incidents/2025-10/24/2025-10-24-parker-teacher-detained.md",
@@ -697,13 +702,18 @@
       "lastUpdated": "2026-01-27T22:56:08",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
-      "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2025-09/24/2025-09-24-alamosa-infant-window-smash.mp4",
+      "localMediaOgPath": "media/2025-09/24/2025-09-24-alamosa-infant-window-smash-og-2s-1771014922.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2025-09/24/2025-09-24-alamosa-infant-window-smash.mp4"
+        }
+      ],
+      "aspectRatio": 0.5406976744186046,
+      "mediaVersion": 1771014922
     },
     {
       "filePath": "incidents/2025-09/25/2025-09-25-routt-county-commissioner-boxed-in.md",
