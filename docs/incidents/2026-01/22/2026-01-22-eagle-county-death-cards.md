@@ -15,6 +15,7 @@ last_updated: 2026-02-04T21:15:43
 # ICE Agents Leave "Death Cards" in Vehicles of Detained; DHS Investigating
 
 ## Updates
+- **Feb 13** - Congressional deadline for DHS response to OIG investigation demand. No public response from DHS as of this date.
 - **Feb 3** - Six Colorado members of Congress [demand independent OIG investigation](https://coloradosun.com/2026/02/03/eagle-county-ice-ace-of-spades-cards/) into Denver Field Office; set Feb 13 deadline for DHS response. ICE says "there is no update" on investigation.
 - **Jan 29** - Sen. Hickenlooper calls death cards "cruelty for the sake of cruelty" on Senate floor.
 

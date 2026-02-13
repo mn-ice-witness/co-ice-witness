@@ -14,6 +14,9 @@ last_updated: 2026-02-06T08:41:53
 
 # Colorado Lawmakers Unveil Package of Immigration Enforcement Bills
 
+## Updates
+- **Feb 12** - Colorado Sun [reports](https://coloradosun.com/2026/02/12/colorado-governor-jared-polis-ice-policy/) Gov. Polis is taking a hands-off approach to the bills, contrasting with Democratic governors in Massachusetts, Illinois, and other states who are actively pushing anti-ICE legislation. Polis praised existing Colorado protections and said he wants "guardrails" at the federal level, but has not committed to supporting the new package.
+
 ## Summary
 Colorado Democratic lawmakers unveiled a package of legislation to regulate federal immigration enforcement in the state. SB26-005, already introduced, would allow individuals to sue federal immigration officers in state court for constitutional violations. Two additional bills being drafted would tighten rules on information sharing with ICE, expand oversight of detention facilities, limit enforcement at hospitals and schools, and require officers to show their faces. The Senate Judiciary Committee advanced SB26-005 on a 5-2 party-line vote.
 
@@ -28,6 +31,9 @@ Colorado Democratic lawmakers unveiled a package of legislation to regulate fede
 8. 9News (Feb 2, 2026): [Colorado bill would allow suing federal officers for immigration rights violations](https://www.9news.com/article/news/politics/colorado-bill-suing-federal-officers-immigration-rights-violations/73-50771f75-7c2d-4240-86e5-749b316136e7)
 9. Westword (~Feb 3, 2026): [Defy or Ally? Dueling Proposals Will Determine How Colorado Police Handle ICE](https://www.westword.com/news/dueling-proposals-determine-how-colorado-police-handle-ice-40839091/)
 10. Denver Post (Feb 8, 2026): [Colorado Democrats ramp up anti-ICE strategy after raids, killings](https://www.denverpost.com/2026/02/08/colorado-ice-protest-bills-immigration/)
+11. CPR News (Feb 11, 2026): [State Democrats pushing bills to insulate Colorado from federal policies they call intrusive](https://www.cpr.org/2026/02/11/state-democrat-immigration-health-bills-counter-federal-policies/)
+12. KUNC (Feb 12, 2026): [State Democrats pushing bills to insulate Colorado from federal policies they call intrusive](https://www.kunc.org/politics/2026-02-12/state-democrats-pushing-bills-to-insulate-colorado-from-federal-policies-they-call-intrusive)
+13. Colorado Sun (Feb 12, 2026): [As some Democratic governors lead on ICE pushback, Jared Polis is taking a hands-off approach](https://coloradosun.com/2026/02/12/colorado-governor-jared-polis-ice-policy/)
 
 ## Legislation Details
 
@@ -56,4 +62,4 @@ Colorado Democratic lawmakers unveiled a package of legislation to regulate fede
 Galvanized by the fatal ICE shooting of Renee Nicole Good and the killing of Alex Pretti in Minnesota, and by escalating enforcement tactics in Colorado including agents drawing weapons and smashing car windows with children inside. ICE arrested at least 3,522 people in Colorado from January to October 2025, up from 843 during the same period in 2024. Only 37% had prior criminal convictions, down from 61% in 2024.
 
 ## Editorial Assessment
-**HIGH** - Covered by eight independent sources (Colorado Sun, Denver Post, Colorado Newsline, KUNC, Aspen Public Radio, CBS Colorado, Colorado Springs Gazette, 9News); official bill text available through Colorado General Assembly; named sponsors and specific provisions documented; committee vote recorded.
+**HIGH** - Covered by 13 independent sources (Colorado Sun, Denver Post, Colorado Newsline, KUNC, CPR, Aspen Public Radio, CBS Colorado, Colorado Springs Gazette, 9News, Westword); official bill text available through Colorado General Assembly; named sponsors and specific provisions documented; committee vote recorded.

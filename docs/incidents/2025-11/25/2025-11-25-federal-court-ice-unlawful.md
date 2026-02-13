@@ -17,6 +17,7 @@ last_updated: 2026-02-06T08:41:53
 ## Updates
 - **Feb 5** - ACLU filed [98-page amended complaint](https://coloradosun.com/2026/02/05/ice-violating-court-order-warrantless-arrests-colorado-lawyers-say/) alleging ICE continues violating the injunction through warrantless arrests; added East Colfax Community Collective as plaintiff.
 - **Jan 27** - ICE announced [appeal to 10th Circuit Court of Appeals](https://www.gjsentinel.com/news/western_colorado/ice-to-appeal-judges-ruling-requiring-agents-to-follow-laws-during-arrests/article_5c25e1b9-01d5-4b4a-96ab-459cf1414992.html).
+- **Feb 12** - CPR reports AG Weiser's misconduct system has [received 180+ complaints but no prosecutions](https://www.cpr.org/2026/02/12/colorado-report-ice-immigration-misconduct-phil-weiser/); advocates question effectiveness.
 - **Jan 26** - Colorado AG Phil Weiser [launched misconduct complaint system](https://www.kunc.org/news/2026-01-26/misconduct-by-ice-can-now-be-reported-to-the-colorado-attorney-general) for reporting federal agent violations.
 
 ## Summary
