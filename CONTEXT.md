@@ -19,7 +19,7 @@ ls -la us-ice-witness-repo/CONTEXT.md
 us-ice-witness-repo/CONTEXT.md
 ```
 
-That file contains ALL instructions for incidents, media, schemas, validation, and deployment.
+That file contains ALL instructions for incidents, media, schemas, validation, and deployment. It also points to `us-ice-witness-repo/dev-docs/` which has detailed technical docs on every topic (incident schema, media processing, source tiers, etc.). **Read the relevant dev-doc for whatever task you're doing.**
 
 **Then return here** for Colorado-specific info below.
 
