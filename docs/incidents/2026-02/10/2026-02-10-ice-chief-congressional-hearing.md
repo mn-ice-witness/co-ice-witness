@@ -24,6 +24,8 @@ Acting ICE Director Todd Lyons, CBP Commissioner Rodney Scott, and USCIS Directo
 4. PBS News (Feb 10, 2026): [WATCH: Heads of ICE, immigration agencies testify following protester deaths](https://www.pbs.org/newshour/politics/watch-live-heads-of-ice-immigration-agencies-testify-as-funding-deadline-looms)
 5. Roll Call (Feb 10, 2026): [Immigration officials defend approach at House hearing](https://rollcall.com/2026/02/10/immigration-officials-defend-approach-at-house-hearing/)
 6. Newsweek (Feb 10, 2026): [ICE Chief Faces Tough Questions on Immigration Crackdown at House Hearing](https://www.newsweek.com/ice-chief-faces-tough-questions-on-immigration-crackdown-at-house-hearing-live-updates-11498352)
+7. Sentinel Colorado (Feb 12, 2026): [ICE director, without evidence, accuses police of sabotaging 2025 Aurora raids](https://sentinelcolorado.com/metro/ice-director-without-evidence-accuses-police-of-sabotaging-2025-aurora-raids/)
+8. 9News (Feb 12, 2026): [ICE claims Colorado law enforcement leaked news of raid, then deletes accusation](https://www.9news.com/article/news/local/next/next-with-kyle-clark/ice-director-claim-about-leaked-aurora-operation-disappears-from-social-media/73-81626a0f-a80b-4be6-acde-8ab1f82daa1e)
 
 ## Key Testimony
 
@@ -55,6 +57,9 @@ Rep. Michael McCaul (R-TX), former Homeland Security Committee chairman, backed 
 - Mandatory body cameras
 - Warrant requirements for entering private property
 - Restricting roving patrols to border areas
+
+## Aurora Police Accusation
+During the hearing, Lyons accused unnamed Colorado law enforcement of sabotaging a February 5, 2025, ICE raid at the Edge at Lowry apartments in Aurora, claiming officers leaked operational details: "They made notifications. So when tactical teams arrived, protesters were already there, and the apartment complex was empty." ICE officials amplified the claim on social media, posting that "local law enforcement made a public notification of our presence — a decision that could have cost American lives." However, Aurora city officials flatly denied involvement: "The city, including the Aurora Police Department, was not and has not been involved in the development and activation of any federal immigration enforcement plans in Aurora." ICE deleted the social media posts after 9News inquired about them and provided no evidence supporting the allegations. Only 23 of 60 units were occupied when the raid occurred, as the complex was being shut down by the city due to building code violations.
 
 ## Colorado Connection
 Alex Pretti's parents, Michael and Susan Pretti, live in Arvada, Colorado. Renee Good grew up in Colorado and her family still lives in the state. The hearing was held amid warnings that Denver could be the next major target for ICE operations after Minneapolis.
