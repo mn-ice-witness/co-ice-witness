@@ -79,19 +79,26 @@ See `dev-docs/NEWS-SOURCES.md` for state-specific news sources to monitor.
 **Add an incident:**
 > "Add this incident: [paste news URL]"
 
-**Process media (read `us-ice-witness-repo/dev-docs/adding-video-audio.md` for full details):**
+**Process media** (read `us-ice-witness-repo/dev-docs/adding-video-audio.md` for full details):
 
-1. Put raw video/image in `raw_media/` with correct name (e.g., `2025-09-24-alamosa-incident.raw.mov`)
-2. Organize into date folders: `./us-ice-witness-repo/bin/run folderize_media.py --execute`
-3. Process + generate summary: `./us-ice-witness-repo/bin/run run-media-pipeline.py`
-4. Commit the compressed files that appear in `docs/media/`
+When the user says "I put a video/image in raw_media", do this:
 
-**NEVER commit raw/uncompressed video directly to `docs/media/`.** The pipeline compresses videos to 1-6MB. Raw files stay in `raw_media/` which is gitignored.
+1. **List `raw_media/`** to find the file (it will have the user's original filename)
+2. **Determine the incident slug** — the slug is the incident markdown filename without `.md` (e.g., `2025-10-27-durango-family-school-route`). Ask the user which incident if unclear.
+3. **Rename** the file to `<slug>.raw.<ext>` in `raw_media/`:
+   ```bash
+   # Example: rename a screen recording to match the incident
+   mv "raw_media/Screen Recording 2026-02-16.mov" "raw_media/2025-10-27-durango-family-school-route.raw.mov"
+   ```
+   **Note:** Filenames from macOS often contain Unicode narrow no-break spaces (U+202F). Use shell globs (`mv raw_media/Screen\ Recording* raw_media/<slug>.raw.mov`) if `mv` with quotes fails.
+4. **Organize into date folders:** `./us-ice-witness-repo/bin/run folderize_media.py --execute`
+5. **Process + generate summary:** `./us-ice-witness-repo/bin/run run-media-pipeline.py`
+6. **Commit** the compressed files that appear in `docs/media/` and the updated `docs/data/incidents-summary.json`
 
-**Generate summary:**
-```bash
-./us-ice-witness-repo/bin/run generate_summary.py
-```
+**Important:**
+- Only process ONE media file per incident (video OR image, not both). If both a `.mov` and `.png` are in `raw_media/`, ask the user which one to use.
+- **NEVER commit raw/uncompressed video directly to `docs/media/`.** The pipeline compresses videos to 1-6MB. Raw files stay in `raw_media/` which is gitignored.
+- The pipeline auto-generates an OG poster image (frame at 2 seconds) for each video.
 
 ---
 
