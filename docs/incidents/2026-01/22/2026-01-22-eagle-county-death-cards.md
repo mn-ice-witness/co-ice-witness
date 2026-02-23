@@ -9,12 +9,13 @@ affected_individual_citizenship: undocumented
 injuries: none
 trustworthiness: high
 created: 2026-01-27T22:56:08
-last_updated: 2026-02-04T21:15:43
+last_updated: 2026-02-23T08:40:51
 ---
 
 # ICE Agents Leave "Death Cards" in Vehicles of Detained; DHS Investigating
 
 ## Updates
+- **Feb 23** - DHS has still not publicly responded. Sen. Hickenlooper [demands a meeting with ICE](https://www.vaildaily.com/news/hickenlooper-demands-dhs-meeting-as-ice-fails-to-respond-in-eagle-county-death-card-case/), stating: "ICE has failed to provide to us the information on the reports of their agents leaving 'death cards' in detainee's vehicles."
 - **Feb 13** - Congressional deadline for DHS response to OIG investigation demand. No public response from DHS as of this date.
 - **Feb 3** - Six Colorado members of Congress [demand independent OIG investigation](https://coloradosun.com/2026/02/03/eagle-county-ice-ace-of-spades-cards/) into Denver Field Office; set Feb 13 deadline for DHS response. ICE says "there is no update" on investigation.
 - **Jan 29** - Sen. Hickenlooper calls death cards "cruelty for the sake of cruelty" on Senate floor.
@@ -38,6 +39,8 @@ ICE agents detained nine Latino men in Eagle County — eight during what advoca
 13. FOX31 Denver: [Lawmakers call for investigation after ICE allegedly left 'death cards' in detainee vehicles](https://kdvr.com/news/local/lawmakers-call-for-investigation-after-ice-allegedly-left-death-cards-in-detainee-vehicles/)
 14. CBS Colorado (Feb 4, 2026): [Colorado Democrats demand answers on ICE "death cards" left in cars of detainees, agents' alleged fake traffic stops](https://www.cbsnews.com/colorado/news/ice-death-cards-colorado-claims-fake-traffic-stops/)
 15. Scripps News/Denver7: [DHS investigates 'death cards' ICE agents allegedly left inside detainees' cars in Colorado](https://www.scrippsnews.com/politics/immigration/dhs-investigates-death-cards-ice-agents-allegedly-left-inside-detainees-cars-in-colorado)
+16. Vail Daily (Feb 2026): [Hickenlooper demands DHS meeting as ICE fails to respond in Eagle County 'death card' case](https://www.vaildaily.com/news/hickenlooper-demands-dhs-meeting-as-ice-fails-to-respond-in-eagle-county-death-card-case/)
+17. Ark Valley Voice (Feb 2026): [After DHS silence, Hickenlooper demands meeting with ICE on 'death cards' incident](https://arkvalleyvoice.com/after-dhs-silence-hickenlooper-demands-meeting-with-ice-on-death-cards-incident/)
 
 ## Affected Individual(s)
 - **Number:** 9 detained (all Latino men)

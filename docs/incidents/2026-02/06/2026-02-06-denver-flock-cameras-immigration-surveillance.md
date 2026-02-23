@@ -22,6 +22,10 @@ Police nationwide accessed data from Denver's Flock license plate reader cameras
 2. 9News (2025): [Flock admits federal immigration agents have direct access to tracking data, despite previous claims](https://www.9news.com/article/news/local/flock-federal-immigration-agents-access-tracking-data/73-a8aee742-56d4-4a57-b5bb-0373286dfef8)
 3. CBS Colorado (Oct 22, 2025): [Denver extends contract for Flock cameras with new safeguards against sharing with immigration enforcement](https://www.cbsnews.com/colorado/news/denver-contract-flock-camera-immigration-privacy/)
 4. Boulder Reporting Lab (Feb 5, 2026): [Boulder senator proposes limits on police license plate cameras amid privacy concerns](https://boulderreportinglab.org/2026/02/05/my-constituents-do-not-want-big-brother-boulder-sen-amabiles-bill-would-limit-police-use-of-flock-cameras/)
+5. Denver Post (Feb 16, 2026): [Denver considers kicking out Flock — but still using license plate cameras](https://www.denverpost.com/2026/02/16/denver-flock-cameras-license-plates-other-bidders/)
+6. NPR (Feb 17, 2026): [Why some cities are canceling Flock license plate reader contracts](https://www.npr.org/2026/02/17/nx-s1-5612825/flock-contracts-canceled-immigration-survillance-concerns)
+7. Denverite (Feb 18, 2026): [Colorado could limit police use of Flock and other mass surveillance networks](https://denverite.com/2026/02/18/colorado-police-ai-limits-bills-flock/)
+8. Colorado Politics (Feb 18, 2026): [Colorado bill seeks to limit surveillance tech to 'lawful' public safety purposes](https://www.coloradopolitics.com/2026/02/18/colorado-bill-seeks-to-limit-surveillance-tech-to-lawful-public-safety-purposes/)
 
 ## Key Details
 - **Flock cameras** are automatic license plate readers that capture vehicle "fingerprints" including model, plate number, and visible details like scratches and bumper stickers

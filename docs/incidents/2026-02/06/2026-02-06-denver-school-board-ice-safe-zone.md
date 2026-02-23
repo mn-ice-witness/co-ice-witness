@@ -21,6 +21,7 @@ The Denver Public Schools board is considering a policy to designate all distric
 1. Chalkbeat Colorado (Feb 6, 2026): [Denver school board could consider policy to protect students from ICE](https://www.chalkbeat.org/colorado/2026/02/06/denver-school-board-could-consider-policy-to-protect-students-from-ice/)
 2. CPR News (Feb 6, 2026): [Denver school board could consider policy to protect students and staff from immigration enforcement](https://www.cpr.org/2026/02/06/denver-school-board-consider-policy-protect-students-ice-immigration/)
 3. Westword (Feb 6, 2026): [Denver School Board Mulling ICE Protections for Students, Staff](https://www.westword.com/news/dps-board-could-consider-policy-to-protect-students-staff-from-immigration-enforcement-40840566/)
+4. Westword (Feb 2026): [Denver Schools Mulls ICE Policy, Sets Public Comment Dates](https://www.westword.com/news/denver-public-school-board-considering-ice-policy-40846745/)
 
 ## Policy Details
 The proposed policy would:
@@ -35,7 +36,7 @@ The proposed policy would:
 
 ## Timeline
 - **February 6, 2026** - Draft policy posted online ahead of school board meeting; board did not formally discuss or introduce the proposal
-- **February 19, 2026** - Board expected to discuss the proposal
+- **February 19, 2026** - Board formally introduces the policy; public hearing set for March 5, first reading March 19
 
 ## Official Accounts
 

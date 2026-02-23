@@ -9,10 +9,14 @@ affected_individual_citizenship: various
 injuries: none
 trustworthiness: high
 created: 2026-02-06T08:41:53
-last_updated: 2026-02-06T08:41:53
+last_updated: 2026-02-23T08:40:51
 ---
 
 # ACLU Files Amended Complaint Alleging ICE Continues Violating Court Order
+
+## Updates
+- **Feb 21** - Colorado Springs Gazette reports multiple federal judges — not just Jackson — are issuing [escalating warnings on immigration detention](https://gazette.com/2026/02/21/colorados-federal-judges-maintain-approach-to-immigration-detentions-while-escalating-warnings/), with Judges Sweeney, Martínez, and Crews each rebuking DOJ for noncompliance.
+- **Feb 18** - Judge Jackson holds hearing, [orders DOJ back to court](https://www.cpr.org/2026/02/18/trump-administration-warrantless-ice-arrests-colorado-judge/) to explain noncompliance with the November injunction. ACLU lawyers say government is "100 percent out of compliance." Jackson tells DOJ lawyers: "These things shouldn't be that difficult." Evidentiary hearing scheduled for March 10.
 
 ## Summary
 The ACLU of Colorado and two Denver law firms filed a 98-page amended complaint alleging ICE continues to make warrantless arrests in violation of the November 25 preliminary injunction from U.S. District Judge R. Brooke Jackson. The filing documents multiple new arrests including a Venezuelan asylum seeker boxed in on Christmas Eve, three men detained en route to a cemetery job in Bennett, and three African asylum seekers from the East Colfax Community Collective. Lawyers are requesting "permanent class-wide injunctive relief."
@@ -24,6 +28,10 @@ The ACLU of Colorado and two Denver law firms filed a 98-page amended complaint 
 4. KUNC (Feb 7, 2026): [ICE is violating court order against warrantless arrests in Colorado, lawyers say](https://www.kunc.org/news/2026-02-07/ice-is-violating-court-order-against-warrantless-arrests-in-colorado-lawyers-say)
 5. Post Independent (Feb 6, 2026): [Colorado immigration lawyers say leaked ICE memo is enabling agents to make illegal arrests](https://www.postindependent.com/news/colorado-immigration-lawyers-leaked-ice-memo-illegal-arrests/)
 6. Denver Post (Feb 6, 2026): [ICE has repeatedly violated Colorado court order restricting arrests of immigrants, lawyers allege](https://www.denverpost.com/2026/02/06/colorado-ice-arrests-immigration-lawsuit/)
+7. CPR News (Feb 18, 2026): [Exasperated Colorado federal judge orders Trump administration back to court on warrantless ICE arrests](https://www.cpr.org/2026/02/18/trump-administration-warrantless-ice-arrests-colorado-judge/)
+8. Fox News (Feb 2026): [Federal judge who ordered no warrantless ICE arrests in Colorado asserts DOJ not complying](https://www.foxnews.com/politics/federal-judge-who-ordered-no-warrantless-ice-arrests-colorado-asserts-doj-not-complying)
+9. Colorado Newsline (Feb 2026): [ICE 'routinely' made unlawful warrantless arrests in Colorado, federal judge finds](https://coloradonewsline.com/briefs/ice-unlawful-warrantless-arrests-colorado/)
+10. Colorado Springs Gazette (Feb 21, 2026): [Colorado's federal judges maintain approach to immigration detentions while escalating warnings](https://gazette.com/2026/02/21/colorados-federal-judges-maintain-approach-to-immigration-detentions-while-escalating-warnings/)
 
 ## Related Incidents
 - [Federal Judge Rules ICE Conduct in Colorado "Unlawful"](#2025-11-25-federal-court-ice-unlawful)

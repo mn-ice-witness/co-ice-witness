@@ -23,6 +23,7 @@ Denver Health distributed notices informing patients that due to federal changes
 3. Colorado Newsline (Feb 9, 2026): [With ICE using Medicaid data, hospitals and states are in a bind over warning immigrant patients](https://coloradonewsline.com/2026/02/09/ice-medicaid-hospitals-immigrant/)
 4. KFF Health News (Feb 2026): [With ICE Using Medicaid Data, Hospitals and States Are in a Bind Over Warning Immigrant Patients](https://kffhealthnews.org/news/article/ice-immigrants-medicaid-data-sharing-hospitals-states-deportation/)
 5. CNN (Feb 5, 2026): [With ICE using Medicaid data, hospitals and states are in a bind over warning immigrant patients](https://edition.cnn.com/2026/02/05/health/medicaid-data-ice-immigrants)
+6. CPR News (Feb 16, 2026): ['It's a terrible choice,' Colorado AG on immigrant Medicaid data sharing with federal agencies](https://www.cpr.org/2026/02/16/phil-weiser-court-ruling-medicaid-data-sharing/)
 
 ## Data Being Shared
 CMS may share the following with ICE for individuals not lawfully residing in the U.S.:
