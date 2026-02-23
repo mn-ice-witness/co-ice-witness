@@ -19,6 +19,8 @@ venv/
 
 # Raw media (source files before processing)
 raw_media/
+raw_media
+raw_media/*
 
 # Local dev
 .wrangler/
