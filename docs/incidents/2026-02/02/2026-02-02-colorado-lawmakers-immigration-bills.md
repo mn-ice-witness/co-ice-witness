@@ -9,12 +9,13 @@ affected_individual_citizenship: n/a
 injuries: none
 trustworthiness: high
 created: 2026-02-06T08:41:53
-last_updated: 2026-02-06T08:41:53
+last_updated: 2026-02-26T09:31:25
 ---
 
 # Colorado Lawmakers Unveil Package of Immigration Enforcement Bills
 
 ## Updates
+- **Feb 24** - Colorado Senate passes SB26-005 [on a 20-11 party-line vote](https://www.dailycamera.com/2026/02/24/colorado-ice-agents-lawsuits-immigration/); bill now heads to the House. During debate, sponsor Sen. Weissman cited incidents including agents throwing a woman to the ground in Durango and smashing car windows in Alamosa.
 - **Feb 12** - Colorado Sun [reports](https://coloradosun.com/2026/02/12/colorado-governor-jared-polis-ice-policy/) Gov. Polis is taking a hands-off approach to the bills, contrasting with Democratic governors in Massachusetts, Illinois, and other states who are actively pushing anti-ICE legislation. Polis praised existing Colorado protections and said he wants "guardrails" at the federal level, but has not committed to supporting the new package.
 
 ## Summary
@@ -34,6 +35,10 @@ Colorado Democratic lawmakers unveiled a package of legislation to regulate fede
 11. CPR News (Feb 11, 2026): [State Democrats pushing bills to insulate Colorado from federal policies they call intrusive](https://www.cpr.org/2026/02/11/state-democrat-immigration-health-bills-counter-federal-policies/)
 12. KUNC (Feb 12, 2026): [State Democrats pushing bills to insulate Colorado from federal policies they call intrusive](https://www.kunc.org/politics/2026-02-12/state-democrats-pushing-bills-to-insulate-colorado-from-federal-policies-they-call-intrusive)
 13. Colorado Sun (Feb 12, 2026): [As some Democratic governors lead on ICE pushback, Jared Polis is taking a hands-off approach](https://coloradosun.com/2026/02/12/colorado-governor-jared-polis-ice-policy/)
+14. Boulder Daily Camera (Feb 24, 2026): [Colorado Senate passes bill allowing lawsuits against ICE agents](https://www.dailycamera.com/2026/02/24/colorado-ice-agents-lawsuits-immigration/)
+15. KKTV (Feb 24, 2026): [Right to sue ICE agents proposal clears Colorado Senate](https://www.kktv.com/2026/02/24/right-sue-ice-agents-proposal-clears-colorado-senate/)
+16. Colorado Newsline (Feb 24, 2026): [Colorado immigration protection bill clears Senate vote](https://coloradonewsline.com/briefs/colorado-immigration-protection-senate/)
+17. NewsNation (Feb 24, 2026): [Colorado Senate OKs bill allowing lawsuits for people injured by immigration officials](https://www.newsnationnow.com/us-news/immigration/colorado-senate-bill-lawsuit-immigration-official-injury/)
 
 ## Legislation Details
 

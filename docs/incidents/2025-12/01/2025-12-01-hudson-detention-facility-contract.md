@@ -9,12 +9,13 @@ affected_individual_citizenship: n/a
 injuries: none
 trustworthiness: high
 created: 2026-01-27T22:56:08
-last_updated: 2026-02-23T08:40:51
+last_updated: 2026-02-26T09:31:25
 ---
 
 # ICE Awards $39 Million Contract for New Colorado Detention Facility in Hudson
 
 ## Updates
+- **Feb 24** - Rep. Pettersen, Sen. Bennet, and Sen. Hickenlooper send letter to DHS and ICE [demanding the agencies "immediately abandon" plans](https://coloradonewsline.com/briefs/colorado-democrats-abandon-ice-detention-center/) for the Hudson facility, citing its remote location limiting legal access and GEO Group's history of blocking congressional oversight at the Aurora facility. They request responses to eight questions by March 13.
 - **Feb 16** - Clergy and immigrant rights activists with Together Colorado [demonstrate outside two Denver apartment buildings](https://coloradonewsline.com/2026/02/16/colorado-activists-hudson-prison-ice/) owned by Highlands REIT — the real estate company that owns the former Hudson prison — urging CEO Robert J. Lange to reject the GEO Group contract.
 - **Feb 9** - Hudson Town Council to [receive legal advice](https://www.kunc.org/news/2026-02-09/hudson-officials-to-get-legal-advice-on-potential-ice-detention-center) in closed executive session on Feb 12 regarding the potential re-use of the facility.
 - **Jan 22** - [Hundreds protest at facility site](https://www.denverpost.com/2026/01/21/hudson-correctional-facility-colorado-ice-detention/) demanding it not be used for ICE detention.
@@ -37,6 +38,10 @@ ICE awarded GEO Group a $39 million contract to operate the former Hudson Correc
 11. Sentinel Colorado (Feb 2026): [Denver activists urge Highlands REIT to reject ICE contract for Hudson prison](https://sentinelcolorado.com/metro/denver-activists-urge-highlands-reit-to-reject-ice-contract-for-hudson-prison/)
 12. Colorado Times Recorder (Feb 2026): [Organizers target CEO of the real estate company that owns proposed ICE jail](https://coloradotimesrecorder.com/2026/02/organizers-target-ceo-of-the-real-estate-company-that-owns-proposed-ice-jail/76710/)
 13. Westword (Feb 2026): [Colorado activists urge Hudson prison owner to nix ICE facility](https://www.westword.com/news/colorado-activists-urge-hudson-prison-owner-nix-ice-facility-40845932/)
+14. Colorado Newsline (Feb 24, 2026): [Colorado Democrats tell ICE to 'immediately abandon' Hudson detention center plans](https://coloradonewsline.com/briefs/colorado-democrats-abandon-ice-detention-center/)
+15. Denver Post (Feb 24, 2026): [Colorado Congressional Democrats demand ICE abandon plans for Hudson immigration detention center](https://www.denverpost.com/2026/02/24/colorado-hudson-ice-dentention-center/)
+16. Axios Denver (Feb 24, 2026): [Dems demand DHS drop plans for new Colorado ICE facility](https://www.axios.com/local/denver/2026/02/24/democrats-demand-dhs-drop-new-colorado-ice-facility-plan/)
+17. Greeley Tribune (Feb 24, 2026): [Colorado Congressional Democrats demand ICE abandon plans for Hudson immigration detention center](https://www.greeleytribune.com/2026/02/24/colorado-hudson-ice-dentention-center/)
 
 ## Facility Details
 - **Name:** Big Horn Correctional Facility (formerly Hudson Correctional Facility)
