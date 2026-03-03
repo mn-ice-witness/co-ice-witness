@@ -32,6 +32,7 @@ The ACLU of Colorado and two Denver law firms filed a 98-page amended complaint 
 8. Fox News (Feb 2026): [Federal judge who ordered no warrantless ICE arrests in Colorado asserts DOJ not complying](https://www.foxnews.com/politics/federal-judge-who-ordered-no-warrantless-ice-arrests-colorado-asserts-doj-not-complying)
 9. Colorado Newsline (Feb 2026): [ICE 'routinely' made unlawful warrantless arrests in Colorado, federal judge finds](https://coloradonewsline.com/briefs/ice-unlawful-warrantless-arrests-colorado/)
 10. Colorado Springs Gazette (Feb 21, 2026): [Colorado's federal judges maintain approach to immigration detentions while escalating warnings](https://gazette.com/2026/02/21/colorados-federal-judges-maintain-approach-to-immigration-detentions-while-escalating-warnings/)
+11. CPR News (Feb 26, 2026): [Immigration lawyers and Homeland Security continue their fight over warrants and detentions](https://www.cpr.org/2026/02/26/immigration-lawyers-ice-warrants-detentions/)
 
 ## Related Incidents
 - [Federal Judge Rules ICE Conduct in Colorado "Unlawful"](#2025-11-25-federal-court-ice-unlawful)
