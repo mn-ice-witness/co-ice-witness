@@ -1,0 +1,57 @@
+---
+date: 2026-03-04
+time: unknown
+location: Multiple locations statewide
+city: statewide
+type: immigrants
+status: ongoing
+affected_individual_citizenship: various
+injuries: none
+trustworthiness: high
+created: 2026-03-06T06:47:37
+last_updated: 2026-03-06T06:47:37
+---
+
+# FOIA Data Reveals Nine Undisclosed ICE Detention Facilities Across Colorado
+
+## Summary
+A Colorado Times Recorder investigation published March 4, 2026, analyzed Freedom of Information Act data from the Deportation Data Project and found that ICE operated at least nine detention facilities across Colorado from January through October 2025 — none of which appear on the agency's official detention facility list. ICE officially lists only the Aurora Contract Detention Facility as a Colorado detention site, but federal data shows 3,182 individuals were held at locations including Glenwood Springs, Denver, Pueblo, and Frederick during that period. Many detainees were held well beyond ICE's own 72-hour limit, with one individual held for 39 days. The youngest detainee was a 1-year-old girl; the oldest was 91.
+
+## Sources
+1. Colorado Times Recorder (Mar 4, 2026): [EXCLUSIVE: Secret ICE Detention Facilities Exist Around Colorado, Data Shows](https://coloradotimesrecorder.com/2026/03/exclusive-secret-ice-detention-facilities-exist-around-colorado-data-shows/76983/)
+2. Post Independent (Mar 5, 2026): [City of Glenwood Springs inspecting ICE office after missing occupancy certificate discovered](https://www.postindependent.com/news/city-of-glenwood-springs-inspecting-ice-office-after-missing-occupancy-certificate-discovered/)
+3. Sopris Sun (Mar 2026): [Glenwood Report: Permit lapse alleged for Glenwood ICE facility, City response coming](https://soprissun.com/glenwood-report-permit-lapse-alleged-for-glenwood-ice-facility-city-response-coming/)
+4. Post Independent (Mar 2026): [Glenwood Springs City Council hears concerns about ICE office](https://www.postindependent.com/news/glenwood-springs-city-council-hears-concerns-about-ice-office-discusses-events-approves-property-negotiations-and-more/)
+
+## Key Findings
+
+### Scale of Hidden Detention Network
+ICE operated at least nine undisclosed detention facilities in Colorado between January and October 2025. The agency's official website lists only the Aurora Contract Detention Facility as a Colorado detention site. Federal FOIA data — obtained by the Deportation Data Project and analyzed by the Colorado Times Recorder — shows 3,182 individuals were held across these facilities. Detainees ranged in age from a 1-year-old girl to a 91-year-old. Federal records identify facilities by 7-letter codes such as DENHOLD (Denver) and PUEHOLD (Pueblo).
+
+### Duration of Detention
+Many detainees were held far beyond ICE's own 72-hour internal limit for hold rooms. One individual was held for 39 days.
+
+### Identified Facility Locations
+- **Glenwood Springs:** Strip mall at 100 Midland Ave. (Midland Center), shared with a gym, chiropractor's office, and tax accountant. Has operated since 2004. (See below for permit issue.)
+- **Denver (DENHOLD):** Largest Colorado facility; processed 1,398 detainees in the period.
+- **Frederick:** Located at 3770 Puritan Way, north of Denver; no external security signage.
+- **Pueblo (PUEHOLD):** Identified in federal records.
+- Additional locations identified in federal data.
+
+### Criminal Record Data
+At the Glenwood Springs facility, 45% of detainees had no criminal records.
+
+### Glenwood Springs Permit Issue
+The Glenwood Springs ICE facility at 100 Midland Ave. has operated without a valid certificate of occupancy since its temporary permit expired in 2005. The issue surfaced at a February 19, 2026 city council meeting when residents raised concerns. The city conducted a February 25 inspection and found corrective items including nonfunctioning emergency lighting, ceiling holes above a heater unit, and fire sprinkler systems not meeting current standards. The city said it has no evidence the building is currently unsafe for occupancy, but corrections must be completed by end of March 2026 — the same month ICE's lease at that location expires.
+
+## Affected Individual(s)
+- **Number:** 3,182 individuals held January–October 2025
+- **Citizenship:** Various
+- **Ages:** 1 year old to 91 years old
+- **Status:** Detained at facilities not listed on ICE's official detention facility registry
+
+## Context
+The investigation, based on FOIA data obtained by the Deportation Data Project, represents one of the most granular analyses of ICE detention operations in Colorado to date. The data covers arrests, daily facility headcounts, and tens of thousands of entries detailing individual detention stays. The Aurora Contract Detention Facility — the only facility ICE officially acknowledges in Colorado — holds over 1,000 immigrants and is operated by GEO Group.
+
+## Editorial Assessment
+**HIGH** - Based on FOIA data from the Deportation Data Project covering actual federal detention records published by Colorado Times Recorder; supported by local coverage from Post Independent and Sopris Sun documenting the Glenwood Springs facility's permit violations and city council response; federal facility codes corroborated against known ICE naming conventions.

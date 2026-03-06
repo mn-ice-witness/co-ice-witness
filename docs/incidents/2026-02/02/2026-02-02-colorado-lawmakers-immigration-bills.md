@@ -9,12 +9,13 @@ affected_individual_citizenship: n/a
 injuries: none
 trustworthiness: high
 created: 2026-02-06T08:41:53
-last_updated: 2026-02-26T09:31:25
+last_updated: 2026-03-06T06:47:37
 ---
 
 # Colorado Lawmakers Unveil Package of Immigration Enforcement Bills
 
 ## Updates
+- **Mar 2** - HB26-1275, introduced in the House on Feb 19, begins drawing national coverage. The [Daily Signal](https://www.dailysignal.com/2026/03/02/colorado-bill-preventing-ice-agents-joining-state-local-police-stirs-direct-conflict-with-feds-republican-warns/) and [Rocky Mountain Collegian](https://collegian.com/articles/featured/2026/03/category-news-proposed-colorado-bill-allows-state-to-prosecute-regulate-federal-immigration-enforcement-officers/) report on the bill, which bars former ICE/CBP agents from state or local law enforcement certification and clarifies state criminal jurisdiction over federal officers acting under color of federal authority. The bill is assigned to House Judiciary Committee; [Colorado Politics](https://www.coloradopolitics.com/2026/02/20/colorado-bill-disqualifies-former-ice-agents-from-getting-job-in-local-law-enforcement-bills-in-brief/) first reported its introduction Feb 20.
 - **Feb 24** - Colorado Senate passes SB26-005 [on a 20-11 party-line vote](https://www.dailycamera.com/2026/02/24/colorado-ice-agents-lawsuits-immigration/); bill now heads to the House. During debate, sponsor Sen. Weissman cited incidents including agents throwing a woman to the ground in Durango and smashing car windows in Alamosa.
 - **Feb 12** - Colorado Sun [reports](https://coloradosun.com/2026/02/12/colorado-governor-jared-polis-ice-policy/) Gov. Polis is taking a hands-off approach to the bills, contrasting with Democratic governors in Massachusetts, Illinois, and other states who are actively pushing anti-ICE legislation. Polis praised existing Colorado protections and said he wants "guardrails" at the federal level, but has not committed to supporting the new package.
 
@@ -48,7 +49,16 @@ Colorado Democratic lawmakers unveiled a package of legislation to regulate fede
 - **Purpose:** Allows individuals to file civil lawsuits against federal immigration officers in state court for alleged constitutional violations during civil immigration enforcement; strips immunity protections
 - **Model:** Similar to Illinois law passed after Chicago ICE operations; the Trump administration is suing to block the Illinois version
 
-### Two Additional Bills (being drafted for mid-February)
+### HB26-1275: Law Enforcement ID & Immigration Training Requirements
+- **Sponsors:** Reps. Meg Froelich (D-Englewood) and Yara Zokaie (D-Fort Collins); Sens. Iman Jodeh (D-Aurora) and Mike Weissman (D-Aurora)
+- **Status:** Introduced Feb 19, 2026; assigned to House Judiciary Committee
+- **Provisions:**
+  - Prohibits former ICE and CBP officers from receiving POST certification for state or local law enforcement positions
+  - Requires law enforcement officers to display their faces and identification when interacting with the public
+  - Clarifies state criminal jurisdiction over federal officers who commit crimes while acting under color of federal authority
+  - Mandates training on Colorado immigration laws
+
+### Other Planned Bills (from original Feb 2 announcement)
 - **Sponsor:** Rep. Lorena Garcia (D-Adams County), among others
 - **Provisions:**
   - Expand prohibition on sharing personal identifying information with immigration authorities (applies to agencies, not just individuals)
@@ -56,8 +66,6 @@ Colorado Democratic lawmakers unveiled a package of legislation to regulate fede
   - Ban municipal airports, buses, and trains from transporting detainees
   - Limit ICE enforcement at hospitals, schools, childcare centers, courts, and religious facilities
   - Require detention center health and environmental inspections and yearly state health reports
-  - Require law enforcement officers to display faces and identification
-  - Mandate training on Colorado immigration laws (funded by $350 million voter-approved 2024 initiative)
   - Prohibit former federal immigration agents from state/local law enforcement certification
 
 ### Joint Resolution
