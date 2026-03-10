@@ -9,12 +9,13 @@ affected_individual_citizenship: various
 injuries: none
 trustworthiness: high
 created: 2026-02-06T08:41:53
-last_updated: 2026-02-23T08:40:51
+last_updated: 2026-03-10T10:58:12
 ---
 
 # ACLU Files Amended Complaint Alleging ICE Continues Violating Court Order
 
 ## Updates
+- **Mar 10** - Judge Jackson holds the evidentiary hearing on whether ICE has complied with the November 2025 injunction. [ACLU lawyers](https://www.cbsnews.com/colorado/news/federal-judge-declares-ice-policy-of-warrantless-arrests-illegal/) argued the government remains "100 percent out of compliance." The DOJ was required to demonstrate it is training ICE agents to follow the court order. No ruling issued at the hearing.
 - **Feb 21** - Colorado Springs Gazette reports multiple federal judges — not just Jackson — are issuing [escalating warnings on immigration detention](https://gazette.com/2026/02/21/colorados-federal-judges-maintain-approach-to-immigration-detentions-while-escalating-warnings/), with Judges Sweeney, Martínez, and Crews each rebuking DOJ for noncompliance.
 - **Feb 18** - Judge Jackson holds hearing, [orders DOJ back to court](https://www.cpr.org/2026/02/18/trump-administration-warrantless-ice-arrests-colorado-judge/) to explain noncompliance with the November injunction. ACLU lawyers say government is "100 percent out of compliance." Jackson tells DOJ lawyers: "These things shouldn't be that difficult." Evidentiary hearing scheduled for March 10.
 

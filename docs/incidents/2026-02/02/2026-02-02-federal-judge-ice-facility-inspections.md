@@ -9,12 +9,14 @@ affected_individual_citizenship: n/a
 injuries: none
 trustworthiness: high
 created: 2026-02-06T08:41:53
-last_updated: 2026-02-06T08:41:53
+last_updated: 2026-03-10T10:58:12
 ---
 
 # Federal Judge Orders Unannounced Congressional Access to ICE Detention Facilities
 
 ## Updates
+- **Mar 3** - Trump administration [appeals the second ruling](https://www.vaildaily.com/news/ice-neguse-congress-detention-facilities-ruling-appealed/), filing with a higher court to block congressional oversight visits.
+- **Mar 2** - A federal judge rules for the [second time](https://www.upi.com/Top_News/US/2026/03/02/judge-congress-ICE-detention-immigration/7671772487573/) that DHS cannot require Congress members to give seven days' advance notice before visiting ICE detention facilities.
 - **Feb 6** - Reps. Crow and Neguse [conducted an unannounced inspection](https://sentinelcolorado.com/metro/reps-crow-neguse-inspect-aurora-ice-jail-unannounced-following-court-ruling/) of the GEO ICE detention facility in Aurora, their first such visit since the Feb 2 court ruling.
 
 ## Summary
@@ -28,6 +30,11 @@ U.S. District Judge Jia M. Cobb issued a temporary restraining order allowing me
 5. Democracy Forward (Feb 2, 2026): [Court Orders DHS to Restore Congressional Oversight of ICE Detention Facilities](https://democracyforward.org/news/press-releases/court-orders-dhs-to-restore-congressional-oversight-of-ice-detention-facilities/)
 6. Rep. Jason Crow (Feb 2, 2026): [Crow Granted Emergency Relief in Lawsuit to Uphold Congressional Oversight](https://crow.house.gov/media/press-releases/crow-granted-emergency-relief-in-lawsuit-to-uphold-congressional-oversight-of-federal-immigration-detention-facilities)
 7. Sentinel Colorado (Feb 7, 2026): [Reps Crow, Neguse inspect Aurora ICE jail unannounced following court ruling](https://sentinelcolorado.com/metro/reps-crow-neguse-inspect-aurora-ice-jail-unannounced-following-court-ruling/)
+8. UPI (Mar 2, 2026): [Federal judge rules for second time Congress can make unannounced visits to ICE detention facilities](https://www.upi.com/Top_News/US/2026/03/02/judge-congress-ICE-detention-immigration/7671772487573/)
+9. Rep. Joe Neguse (Mar 2, 2026): [Congressman Neguse issues statement after court orders DHS to restore congressional access](https://neguse.house.gov/media/press-releases/congressman-neguse-issues-statement-after-court-orders-dhs-restore-0)
+10. Vail Daily (Mar 3, 2026): [Trump administration appeals second ruling on congressional access to ICE facilities](https://www.vaildaily.com/news/ice-neguse-congress-detention-facilities-ruling-appealed/)
+11. Aspen Times (Mar 3, 2026): [ICE, Neguse, Congress detention facilities ruling appealed](https://www.aspentimes.com/news/ice-neguse-congress-detention-facilities/)
+12. Summit Daily (Mar 3, 2026): [Trump administration appeals ruling allowing unannounced congressional oversight of ICE facilities](https://www.summitdaily.com/news/ice-neguse-congress-detention-facilities-ruling-appealed/)
 
 ## Case Information
 - **Judge:** U.S. District Judge Jia M. Cobb
@@ -41,6 +48,8 @@ U.S. District Judge Jia M. Cobb issued a temporary restraining order allowing me
 - **January 2026** - ICE instituted new policy requiring different funding source, arguing previous legal provision no longer applied
 - **February 2, 2026** - Judge Cobb issues temporary restraining order restoring unannounced access
 - **~February 16, 2026** - Temporary order expires unless court intervenes
+- **March 2, 2026** - Judge rules for second time DHS cannot require seven-day notice for congressional visits
+- **March 3, 2026** - Trump administration appeals the second ruling
 
 ## Facilities Affected
 - GEO Group-operated detention facility in Aurora, Colorado

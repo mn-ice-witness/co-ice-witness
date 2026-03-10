@@ -18,3 +18,21 @@ Stories are excluded when they don't meet the project's core focus:
 ## Excluded Stories
 
 <!-- Add rejected stories here, most recent first, grouped by month -->
+
+### March 2026
+
+**Colorado Secretary of State / 9-State Polling Location Request (Mar 9, 2026)**
+- Reason: Political/institutional story. Colorado SOS Jena Griswold joins 8 other states asking DHS to keep ICE away from polling locations. No specific civil rights incident or individual affected.
+- Source: Colorado Springs Gazette, Mar 9, 2026
+
+**BI Inc. Boulder Protest (Mar 3-4, 2026)**
+- Reason: Protest-only coverage. ~150 activists protested Boulder-based BI Inc.'s $121M ICE Alternatives to Detention contract. No specific enforcement incident or individual detained.
+- Source: Axios Boulder, Mar 4; Yellow Scene, Mar 3; Left Hand Valley Courier, Mar 4
+
+**Colorado Deportation Economic Effects Study (Mar 2, 2026)**
+- Reason: Research/academic story. University of Colorado Denver study on economic effects of deportations. No specific civil rights incident.
+- Source: CPR News, Mar 2, 2026
+
+**ICE Stalking Conviction — Aurora Woman (Mar 2026)**
+- Reason: Opposite of project mission. Aurora woman Ashleigh Brown was convicted of felony stalking for following an ICE officer home from work and livestreaming it. Story is about enforcement against an ICE critic, not an ICE civil rights violation.
+- Source: IRS Criminal Investigation press release

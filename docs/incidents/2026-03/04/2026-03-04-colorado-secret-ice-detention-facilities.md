@@ -9,10 +9,14 @@ affected_individual_citizenship: various
 injuries: none
 trustworthiness: high
 created: 2026-03-06T06:47:37
-last_updated: 2026-03-06T06:47:37
+last_updated: 2026-03-10T10:58:12
 ---
 
 # FOIA Data Reveals Nine Undisclosed ICE Detention Facilities Across Colorado
+
+## Updates
+- **Mar 5-7** - State Rep. Manny Rutinel (D-Commerce City) attempts to walk into the ICE office in Frederick, CO — one of the nine undisclosed facilities — and is [denied access](https://kdvr.com/news/local/state-rep-demanding-transparency-and-congressional-oversight-after-new-report-on-ice-detention-facilities/). He leaves a note and calls for congressional oversight. ICE responds that Rutinel's claims are "false."
+- **Mar 5-7** - Thirty-one Colorado state lawmakers, led by Rep. Rutinel, [send a letter to DHS and ICE](https://coloradotimesrecorder.com/2026/03/after-co-times-recorder-revealed-secret-detention-centers-in-co-27-lawmakers-call-on-ice-for-immediate-transparency/77113/) demanding "immediate transparency," including a full list of all Colorado detention sites, services provided, and contracting vehicles.
 
 ## Summary
 A Colorado Times Recorder investigation published March 4, 2026, analyzed Freedom of Information Act data from the Deportation Data Project and found that ICE operated at least nine detention facilities across Colorado from January through October 2025 — none of which appear on the agency's official detention facility list. ICE officially lists only the Aurora Contract Detention Facility as a Colorado detention site, but federal data shows 3,182 individuals were held at locations including Glenwood Springs, Denver, Pueblo, and Frederick during that period. Many detainees were held well beyond ICE's own 72-hour limit, with one individual held for 39 days. The youngest detainee was a 1-year-old girl; the oldest was 91.
@@ -22,6 +26,12 @@ A Colorado Times Recorder investigation published March 4, 2026, analyzed Freedo
 2. Post Independent (Mar 5, 2026): [City of Glenwood Springs inspecting ICE office after missing occupancy certificate discovered](https://www.postindependent.com/news/city-of-glenwood-springs-inspecting-ice-office-after-missing-occupancy-certificate-discovered/)
 3. Sopris Sun (Mar 2026): [Glenwood Report: Permit lapse alleged for Glenwood ICE facility, City response coming](https://soprissun.com/glenwood-report-permit-lapse-alleged-for-glenwood-ice-facility-city-response-coming/)
 4. Post Independent (Mar 2026): [Glenwood Springs City Council hears concerns about ICE office](https://www.postindependent.com/news/glenwood-springs-city-council-hears-concerns-about-ice-office-discusses-events-approves-property-negotiations-and-more/)
+5. Colorado Times Recorder (Mar 2026): [After CO Times Recorder Revealed Secret Detention Centers in CO, 31 Lawmakers Call on ICE for 'Immediate Transparency'](https://coloradotimesrecorder.com/2026/03/after-co-times-recorder-revealed-secret-detention-centers-in-co-27-lawmakers-call-on-ice-for-immediate-transparency/77113/)
+6. KDVR (Mar 2026): [State rep demanding transparency and congressional oversight after new report on ICE detention facilities](https://kdvr.com/news/local/state-rep-demanding-transparency-and-congressional-oversight-after-new-report-on-ice-detention-facilities/)
+7. GJ Sentinel (Mar 2026): [Glenwood Springs ICE facility has its own documentation trouble](https://www.gjsentinel.com/news/western_colorado/glenwood-springs-ice-facility-has-its-own-documentation-trouble/article_44d34f52-9779-4a42-8a79-83d66059c152.html)
+8. KDNK (Mar 9, 2026): [Glenwood landlord supports ICE detainee at hearing](https://www.kdnk.org/local-news/2026-03-09/glenwood-landlord-supports-ice-detainee-at-hearing)
+9. Aspen Daily News (Mar 2026): [Glenwood Springs officials respond to ICE facility concern](https://www.aspendailynews.com/news/gws-officials-respond-to-ice-facility-concern/article_4b5ec15e-ed69-45a6-aac6-f642dd634691.html)
+10. Aspen Times (Mar 2026): [City of Glenwood Springs inspecting ICE office after missing occupancy certificate discovered](https://www.aspentimes.com/news/city-of-glenwood-springs-inspecting-ice-office-after-missing-occupancy-certificate-discovered/)
 
 ## Key Findings
 

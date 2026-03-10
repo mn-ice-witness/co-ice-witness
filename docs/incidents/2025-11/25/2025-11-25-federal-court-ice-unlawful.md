@@ -32,6 +32,8 @@ U.S. District Judge R. Brooke Jackson issued a 66-page preliminary injunction ru
 6. Colorado Politics (Nov 25, 2025): [Federal judge orders immigration agents to follow law on warrantless arrests, imposes requirements on ICE](https://www.coloradopolitics.com/2025/11/25/federal-judge-orders-immigration-agents-to-follow-law-on-warrantless-arrests-imposes-requirements-on-ice/)
 7. ACLU of Colorado (Nov 25, 2025): [Federal Judge Prohibits ICE from Making Warrantless Arrests in Colorado](https://www.aclu-co.org/press-releases/federal-judge-prohibits-ice-from-making-warrantless-arrests-in-colorado/)
 8. Denver Post (Nov 25, 2025): [Federal judge orders ICE agents in Colorado to follow law, stop 'pattern' of illegal arrests](https://www.denverpost.com/2025/11/25/colorado-immigration-arrests-ice-lawsuit-ruling/)
+9. 9News ( Nov 25, 2025): [Federal judge says ICE's warrantless arrests are illegal; evidentiary hearing held](https://www.9news.com/article/news/politics/federal-judge-ices-warrantless-arrests-illegal/73-e21304e9-8138-4932-a901-8a7e7e655239)
+10. CBS Colorado (Nov 25, 2025): [Federal judge declares ICE policy of warrantless arrests illegal](https://www.cbsnews.com/colorado/news/federal-judge-declares-ice-policy-of-warrantless-arrests-illegal/)
 
 ## Related Incidents
 - [Aurora and Denver Apartment Raids](#2025-02-05-aurora-denver-apartment-raids)
