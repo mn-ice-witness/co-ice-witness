@@ -9,12 +9,13 @@ affected_individual_citizenship: n/a
 injuries: none
 trustworthiness: high
 created: 2026-02-06T08:41:53
-last_updated: 2026-03-06T06:47:37
+last_updated: 2026-03-22T18:07:54
 ---
 
 # Colorado Lawmakers Unveil Package of Immigration Enforcement Bills
 
 ## Updates
+- **Mar 18** - House Judiciary Committee [rejects HB 1275](https://coloradosun.com/2026/03/18/colorado-lawmakers-reject-ice-excessive-force-bill/) on a bipartisan vote, with two Democrats joining Republicans. The same committee advances HB 1276, which would require state agencies to publish unsealed ICE subpoenas and allow four unannounced inspections per year of detention facilities including the Aurora ICE site. Sources: [Colorado Sun](https://coloradosun.com/2026/03/18/colorado-lawmakers-reject-ice-excessive-force-bill/), [Denver Post](https://www.denverpost.com/2026/03/18/immigration-enforcement-police-excessive-force-legislature/), [Colorado Newsline](https://coloradonewsline.com/2026/03/18/right-to-know-ice-subpoenas/)
 - **Mar 2** - HB26-1275, introduced in the House on Feb 19, begins drawing national coverage. The [Daily Signal](https://www.dailysignal.com/2026/03/02/colorado-bill-preventing-ice-agents-joining-state-local-police-stirs-direct-conflict-with-feds-republican-warns/) and [Rocky Mountain Collegian](https://collegian.com/articles/featured/2026/03/category-news-proposed-colorado-bill-allows-state-to-prosecute-regulate-federal-immigration-enforcement-officers/) report on the bill, which bars former ICE/CBP agents from state or local law enforcement certification and clarifies state criminal jurisdiction over federal officers acting under color of federal authority. The bill is assigned to House Judiciary Committee; [Colorado Politics](https://www.coloradopolitics.com/2026/02/20/colorado-bill-disqualifies-former-ice-agents-from-getting-job-in-local-law-enforcement-bills-in-brief/) first reported its introduction Feb 20.
 - **Feb 24** - Colorado Senate passes SB26-005 [on a 20-11 party-line vote](https://www.dailycamera.com/2026/02/24/colorado-ice-agents-lawsuits-immigration/); bill now heads to the House. During debate, sponsor Sen. Weissman cited incidents including agents throwing a woman to the ground in Durango and smashing car windows in Alamosa.
 - **Feb 12** - Colorado Sun [reports](https://coloradosun.com/2026/02/12/colorado-governor-jared-polis-ice-policy/) Gov. Polis is taking a hands-off approach to the bills, contrasting with Democratic governors in Massachusetts, Illinois, and other states who are actively pushing anti-ICE legislation. Polis praised existing Colorado protections and said he wants "guardrails" at the federal level, but has not committed to supporting the new package.
@@ -57,6 +58,13 @@ Colorado Democratic lawmakers unveiled a package of legislation to regulate fede
   - Requires law enforcement officers to display their faces and identification when interacting with the public
   - Clarifies state criminal jurisdiction over federal officers who commit crimes while acting under color of federal authority
   - Mandates training on Colorado immigration laws
+
+### HB26-1276: Right to Know About ICE Subpoenas / Detention Facility Inspections
+- **Status:** Advanced out of House Judiciary Committee, March 18, 2026
+- **Provisions:**
+  - Requires state agencies to publish unsealed subpoenas from federal immigration authorities
+  - Notify individuals whose data was shared with immigration authorities
+  - Allow four unannounced inspections per year of detention facilities including the Aurora ICE site
 
 ### Other Planned Bills (from original Feb 2 announcement)
 - **Sponsor:** Rep. Lorena Garcia (D-Adams County), among others

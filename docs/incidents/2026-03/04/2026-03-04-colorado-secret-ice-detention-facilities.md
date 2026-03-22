@@ -9,12 +9,14 @@ affected_individual_citizenship: various
 injuries: none
 trustworthiness: high
 created: 2026-03-06T06:47:37
-last_updated: 2026-03-10T10:58:12
+last_updated: 2026-03-22T18:07:54
 ---
 
 # FOIA Data Reveals Nine Undisclosed ICE Detention Facilities Across Colorado
 
 ## Updates
+- **Mid-March** - Colorado Times Recorder [reveals details of the Denver "hold room"](https://coloradotimesrecorder.com/2026/03/denver-hold-room-revealed-ice-has-detained-thousands-of-peope-at-its-field-office-in-centennial/77329/): ICE's Denver field office at 12445 E Caley Ave. in Centennial detained 1,398 individuals between January–October 2025. Two Nicaraguan men were held there for 39 and 36 days respectively.
+- **Mid-March** - All six Colorado congressional Democrats, led by Rep. Brittany Pettersen, [send a letter to acting ICE Director Todd Lyons](https://coloradotimesrecorder.com/2026/03/co-congressional-democrats-demand-that-ice-stop-detaining-people-for-extended-periods-in-small-confined-rooms/77207/) demanding an end to extended holds in sub-office holding cells. Source: [Colorado Newsline](https://coloradonewsline.com/briefs/colorado-democrats-ice-holding-cells/)
 - **Mar 5-7** - State Rep. Manny Rutinel (D-Commerce City) attempts to walk into the ICE office in Frederick, CO — one of the nine undisclosed facilities — and is [denied access](https://kdvr.com/news/local/state-rep-demanding-transparency-and-congressional-oversight-after-new-report-on-ice-detention-facilities/). He leaves a note and calls for congressional oversight. ICE responds that Rutinel's claims are "false."
 - **Mar 5-7** - Thirty-one Colorado state lawmakers, led by Rep. Rutinel, [send a letter to DHS and ICE](https://coloradotimesrecorder.com/2026/03/after-co-times-recorder-revealed-secret-detention-centers-in-co-27-lawmakers-call-on-ice-for-immediate-transparency/77113/) demanding "immediate transparency," including a full list of all Colorado detention sites, services provided, and contracting vehicles.
 

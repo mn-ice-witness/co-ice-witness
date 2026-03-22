@@ -9,12 +9,14 @@ affected_individual_citizenship: undocumented
 injuries: none
 trustworthiness: high
 created: 2026-01-27T22:56:08
-last_updated: 2026-02-23T08:40:51
+last_updated: 2026-03-22T18:07:54
 ---
 
 # ICE Agents Leave "Death Cards" in Vehicles of Detained; DHS Investigating
 
 ## Updates
+- **Mar 11** - ICE's assistant field office director Gregory Davies [testifies in federal court](https://coloradosun.com/2026/03/11/ice-ace-of-spades-cards-eagle-county/) that the agents who left the ace of spades cards have been removed from field duty and placed on office duty while ICE's Office of Professional Responsibility investigates. Sources: [Colorado Sun](https://coloradosun.com/2026/03/11/ice-ace-of-spades-cards-eagle-county/), [Denver Post](https://www.denverpost.com/2026/03/11/court-hearing-ice-immigration-arrests-death-cards/)
+- **Mar 10** - Colorado Congressional Democrats (Reps. Neguse, Hickenlooper, Bennet) [send a second letter to DHS Secretary Noem](https://coloradosun.com/2026/03/10/ice-arrests-eagle-county-ace-of-spades-cards/) demanding answers about the ace of spades cards before Noem's stated last day on March 31.
 - **Feb 23** - DHS has still not publicly responded. Sen. Hickenlooper [demands a meeting with ICE](https://www.vaildaily.com/news/hickenlooper-demands-dhs-meeting-as-ice-fails-to-respond-in-eagle-county-death-card-case/), stating: "ICE has failed to provide to us the information on the reports of their agents leaving 'death cards' in detainee's vehicles."
 - **Feb 13** - Congressional deadline for DHS response to OIG investigation demand. No public response from DHS as of this date.
 - **Feb 3** - Six Colorado members of Congress [demand independent OIG investigation](https://coloradosun.com/2026/02/03/eagle-county-ice-ace-of-spades-cards/) into Denver Field Office; set Feb 13 deadline for DHS response. ICE says "there is no update" on investigation.

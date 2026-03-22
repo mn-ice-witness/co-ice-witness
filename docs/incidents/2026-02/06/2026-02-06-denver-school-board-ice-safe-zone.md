@@ -9,12 +9,13 @@ affected_individual_citizenship: n/a
 injuries: none
 trustworthiness: high
 created: 2026-02-06T08:41:53
-last_updated: 2026-03-10T10:58:12
+last_updated: 2026-03-22T18:07:54
 ---
 
 # Denver School Board Considers Policy Designating Schools as ICE "Safe Zones"
 
 ## Updates
+- **Mar 19** - DPS board [unanimously advances the Safe Zones policy](https://www.denvergazette.com/2026/03/19/dps-board-advances-safe-zones-policy-restricting-ice-access-without-judicial-warrants/) on first reading at its March 19 meeting; would bar ICE without a judge's warrant from all school property including bus stops. Final vote expected in April. Sources: [Denver Gazette](https://www.denvergazette.com/2026/03/19/dps-board-advances-safe-zones-policy-restricting-ice-access-without-judicial-warrants/), [Westword](https://www.westword.com/news/denver-students-parents-debate-ice-restrictions-schools-40853225/)
 - **Mar 8** - KUNC reports ["Children are afraid"](https://www.kunc.org/news/2026-03-08/children-are-afraid-advocates-say-denvers-policies-to-shield-students-from-ice-must-be-stronger) as advocates say existing Denver school policies must be stronger; community members testify about fear and confusion following immigration enforcement.
 - **Mar 5** - DPS holds public hearing. Latino advocates push for a [broader policy](https://www.chalkbeat.org/colorado/2026/03/05/advocates-push-denver-school-board-to-pass-ice-policy-even-if-duplicative/) that would protect not just school buildings but also bus stops and school-sponsored events, even if it duplicates existing measures. The board's next formal reading is set for March 19.
 
