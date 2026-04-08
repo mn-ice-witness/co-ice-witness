@@ -19,7 +19,25 @@ Stories are excluded when they don't meet the project's core focus:
 
 <!-- Add rejected stories here, most recent first, grouped by month -->
 
+### April 2026
+
+**CTR: Republicans and Detention in Their Backyards (Apr 2026)**
+- Reason: Political analysis piece. No specific enforcement incident against individuals.
+- Source: Colorado Times Recorder, Apr 2026
+
 ### March 2026
+
+**Aurora Police–GEO ICE Detention MOU Update (Mar 23–24, 2026)**
+- Reason: Policy/procedural story about emergency response protocols between Aurora police and GEO Group facility following a March 2025 escape. No specific civil rights incident; city council vote on revised pact was also delayed.
+- Sources: Denver Gazette (Mar 24, 2026), Sentinel Colorado (multiple articles)
+
+**Weld County DA: ICE Arrests Derailing Criminal Prosecutions (Mar–Apr 2026)**
+- Reason: Policy impact story. DA Rourke states ICE deportations are preventing criminal cases from going to trial. While notable, this is a systemic impact story rather than a specific civil rights incident against an identified individual. May revisit if specific named individual case is documented.
+- Source: 9News
+
+**Mountain Towns School Absenteeism Due to ICE Fear (Ongoing 2026)**
+- Reason: Trend/pattern story about attendance drops in Summit, Eagle, Garfield, and other mountain counties. No specific incident at a specific school on a specific date. Based on aggregated attendance data, not a single documented event.
+- Source: Sky Hi News/Summit Daily/shared story
 
 **Colorado Secretary of State / 9-State Polling Location Request (Mar 9, 2026)**
 - Reason: Political/institutional story. Colorado SOS Jena Griswold joins 8 other states asking DHS to keep ICE away from polling locations. No specific civil rights incident or individual affected.

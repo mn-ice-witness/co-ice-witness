@@ -22,6 +22,7 @@ A coalition of advocacy groups released a report on March 2, 2026, documenting c
 2. Colorado Newsline (Mar 2, 2026): [Report offers firsthand stories of conditions in Aurora ICE facility](https://coloradonewsline.com/2026/03/02/report-offers-firsthand-stories-of-conditions-in-aurora-ice-facility/)
 3. Sentinel Colorado (Mar 2, 2026): [Aurora ICE immigration detainees face hunger and health woes, report reveals](https://sentinelcolorado.com/metro/aurora-ice-immigration-detainees-face-hunger-and-health-woes-report-reveals/)
 4. Pagosa Daily Post (Mar 3, 2026): [Report offers firsthand stories of conditions at Aurora ICE Facility](https://pagosadailypost.com/2026/03/03/report-report-offers-firsthand-stories-of-conditions-at-aurora-ice-facility/)
+5. CPR News (Mar 5, 2026): [Aurora ICE detainees are malnourished and forced to work, advocates report](https://www.cpr.org/2026/03/05/aurora-geo-immigration-jail-ice-conditions-report/)
 
 ## Key Findings
 

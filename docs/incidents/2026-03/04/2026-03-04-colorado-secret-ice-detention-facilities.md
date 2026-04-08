@@ -9,12 +9,13 @@ affected_individual_citizenship: various
 injuries: none
 trustworthiness: high
 created: 2026-03-06T06:47:37
-last_updated: 2026-03-22T18:07:54
+last_updated: 2026-04-08T11:58:38
 ---
 
 # FOIA Data Reveals Nine Undisclosed ICE Detention Facilities Across Colorado
 
 ## Updates
+- **Mar 17** - The City of Glenwood Springs [formally begins permit enforcement proceedings](https://aspenjournalism.org/city-could-revoke-permit-after-data-shows-ice-detainees-held-for-more-than-12-hours-at-glenwood-facility/) against the ICE detention facility at 100 Midland Ave. Federal data shows detainees were held longer than the 12-hour limit allowed under the facility's 2003 special use permit. The city issued a notice of violation to the property owner and the General Services Administration and scheduled a public hearing before the Planning and Zoning Commission for April 28. Possible outcomes include permit revocation, no action, or new conditions on the permit.
 - **Mid-March** - Colorado Times Recorder [reveals details of the Denver "hold room"](https://coloradotimesrecorder.com/2026/03/denver-hold-room-revealed-ice-has-detained-thousands-of-peope-at-its-field-office-in-centennial/77329/): ICE's Denver field office at 12445 E Caley Ave. in Centennial detained 1,398 individuals between January–October 2025. Two Nicaraguan men were held there for 39 and 36 days respectively.
 - **Mid-March** - All six Colorado congressional Democrats, led by Rep. Brittany Pettersen, [send a letter to acting ICE Director Todd Lyons](https://coloradotimesrecorder.com/2026/03/co-congressional-democrats-demand-that-ice-stop-detaining-people-for-extended-periods-in-small-confined-rooms/77207/) demanding an end to extended holds in sub-office holding cells. Source: [Colorado Newsline](https://coloradonewsline.com/briefs/colorado-democrats-ice-holding-cells/)
 - **Mar 5-7** - State Rep. Manny Rutinel (D-Commerce City) attempts to walk into the ICE office in Frederick, CO — one of the nine undisclosed facilities — and is [denied access](https://kdvr.com/news/local/state-rep-demanding-transparency-and-congressional-oversight-after-new-report-on-ice-detention-facilities/). He leaves a note and calls for congressional oversight. ICE responds that Rutinel's claims are "false."
@@ -34,6 +35,16 @@ A Colorado Times Recorder investigation published March 4, 2026, analyzed Freedo
 8. KDNK (Mar 9, 2026): [Glenwood landlord supports ICE detainee at hearing](https://www.kdnk.org/local-news/2026-03-09/glenwood-landlord-supports-ice-detainee-at-hearing)
 9. Aspen Daily News (Mar 2026): [Glenwood Springs officials respond to ICE facility concern](https://www.aspendailynews.com/news/gws-officials-respond-to-ice-facility-concern/article_4b5ec15e-ed69-45a6-aac6-f642dd634691.html)
 10. Aspen Times (Mar 2026): [City of Glenwood Springs inspecting ICE office after missing occupancy certificate discovered](https://www.aspentimes.com/news/city-of-glenwood-springs-inspecting-ice-office-after-missing-occupancy-certificate-discovered/)
+11. Colorado Times Recorder (Mar 2026): [EXCLUSIVE: 2,800 Individual Journeys Through ICE Hold Rooms, Mapped](https://coloradotimesrecorder.com/2026/03/exclusive-2800-individual-journeys-through-ice-hold-rooms-mapped/77841/)
+12. Colorado Times Recorder (Mar 2026): [These Are the Landlords Profiting From ICE's Colorado Hold Rooms](https://coloradotimesrecorder.com/2026/03/davis-these-are-the-landlords-profiting-from-ices-colorado-hold-rooms/77618/)
+13. Colorado Times Recorder (Mar 2026): [EXCLUSIVE: ICE Locks Thousands, Including Kids, in 170 Hold Rooms Nationwide](https://coloradotimesrecorder.com/2026/03/exclusive-ice-locks-thousands-including-kids-in-170-hold-rooms-nationwide-heres-where-they-are/77352/)
+14. Aspen Journalism (Mar 17, 2026): [City could revoke permit after data shows ICE detainees held for more than 12 hours at Glenwood facility](https://aspenjournalism.org/city-could-revoke-permit-after-data-shows-ice-detainees-held-for-more-than-12-hours-at-glenwood-facility/)
+15. Aspen Public Radio (Mar 17, 2026): [City could revoke permit after data shows ICE detained people for more than 12 hours at Glenwood facility](https://www.aspenpublicradio.org/social-justice/2026-03-17/city-could-revoke-permit-after-data-shows-that-ice-detained-people-for-more-than-12-hours-at-glenwood-facility/)
+16. Post Independent (Mar 2026): [Glenwood Springs begins enforcement process over ICE detention facility permit](https://www.postindependent.com/news/glenwood-springs-begins-enforcement-process-over-ice-detention-facility-permit/)
+17. Aspen Daily News (Mar 2026): [City could revoke ICE permit in Glenwood Springs](https://www.aspendailynews.com/news/city-could-revoke-ice-permit-in-glenwood-springs/article_71d20842-8dcc-47b3-8f65-25beabd9b8dd.html)
+18. Western Slope Trellis (Mar 2026): [Glenwood Springs Council advances wildfire code, sets stage for review of ICE facility](https://www.westernslopetrellis.com/glenwood-springs-council-advances-wildfire-code-sets-stage-for-review-of-ice-facility/)
+19. Colorado Times Recorder (Mar 2026): [Denver 'Hold Room' Revealed: ICE Has Detained Thousands of People at Its Field Office in Centennial](https://coloradotimesrecorder.com/2026/03/denver-hold-room-revealed-ice-has-detained-thousands-of-peope-at-its-field-office-in-centennial/77329/)
+20. Colorado Times Recorder (Mar 2026): [DAVIS: ICE Confirms CTR Reporting in Denial](https://coloradotimesrecorder.com/2026/03/davis-ice-confirms-ctr-reporting-in-denial/77248/)
 
 ## Key Findings
 
