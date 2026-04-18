@@ -21,6 +21,14 @@ Stories are excluded when they don't meet the project's core focus:
 
 ### April 2026
 
+**House Judiciary Committee Investigates Colorado Attorney Certification Rule (Apr 13-14, 2026)**
+- Reason: Political/institutional story. House Judiciary Chairs Jordan and McClintock sent a letter to Colorado State Court Administrator Steven Vasconcellos demanding information about the state court's rule requiring attorneys to certify they won't use court data for immigration enforcement. Congressional pressure on a state court rule — no specific civil rights incident against an individual.
+- Sources: Denver Gazette (Apr 14, 2026), Daily Signal (Apr 14, 2026), House Judiciary Committee press release (Apr 13, 2026)
+
+**Colorado Court of Appeals: Counties Cannot Challenge Immigration Detention Contracts Law (Apr 9, 2026)**
+- Reason: Policy/institutional story. A 3-0 Court of Appeals panel ruled that Douglas County (and others) lacked standing to challenge a 2023 state law restricting local governments' ability to enter immigration detention contracts with the federal government. No specific civil rights incident against any individual; this is a ruling on institutional authority between state and county government.
+- Sources: Colorado Springs Gazette (Apr 9, 2026), Colorado Politics (Apr 9, 2026), Denver Gazette (Apr 9, 2026)
+
 **CTR: Republicans and Detention in Their Backyards (Apr 2026)**
 - Reason: Political analysis piece. No specific enforcement incident against individuals.
 - Source: Colorado Times Recorder, Apr 2026

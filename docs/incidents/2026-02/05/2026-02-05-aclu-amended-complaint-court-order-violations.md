@@ -35,10 +35,15 @@ The ACLU of Colorado and two Denver law firms filed a 98-page amended complaint 
 9. Colorado Newsline (Feb 2026): [ICE 'routinely' made unlawful warrantless arrests in Colorado, federal judge finds](https://coloradonewsline.com/briefs/ice-unlawful-warrantless-arrests-colorado/)
 10. Colorado Springs Gazette (Feb 21, 2026): [Colorado's federal judges maintain approach to immigration detentions while escalating warnings](https://gazette.com/2026/02/21/colorados-federal-judges-maintain-approach-to-immigration-detentions-while-escalating-warnings/)
 11. CPR News (Feb 26, 2026): [Immigration lawyers and Homeland Security continue their fight over warrants and detentions](https://www.cpr.org/2026/02/26/immigration-lawyers-ice-warrants-detentions/)
+12. Union Bulletin (Apr 2026): [Immigrants detained in Colorado by ICE's 'deportation machine' reach for once-rare legal lever](https://www.union-bulletin.com/news/national/immigrants-detained-in-colorado-by-ice-s-deportation-machine-reach-for-once-rare-legal-lever/article_95c5d361-23e9-5526-806c-2f75f2b89a3b.html)
+13. 9News (Apr 13, 2026): [Freedom delayed: Detainees held days after judge's order to release them from detention](https://www.9news.com/article/news/politics/immigration-news/colorado-immigration-detainees-held/73-ae412fcf-4cef-4ce6-941e-61dc490725eb)
 
 ## Related Incidents
 - [Federal Judge Rules ICE Conduct in Colorado "Unlawful"](#2025-11-25-federal-court-ice-unlawful)
 - [Eagle County Death Cards](#2026-01-22-eagle-county-death-cards)
+- [Jose Millan Olivas: Immigration Judge Ignores Habeas Order](#2026-04-02-millan-olivas-immigration-judge-disobeys-habeas)
+- [Gurjant Singh: Bond Hearings Have "Preordained Outcomes"](#2026-04-07-singh-asylum-seeker-bond-preordained)
+- [Vicente Jimenez Chauca: Two Immigration Judges Disobey Habeas Order](#2026-04-09-jimenez-chauca-immigration-judges-disobey-order)
 
 ## Affected Individual(s)
 
